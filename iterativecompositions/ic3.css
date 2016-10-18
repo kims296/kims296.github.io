@@ -1,5 +1,5 @@
 body {
-  
+    background-color: DFD7B5;
     margin: 0;
     
 }   
@@ -13,6 +13,10 @@ body {
     overflow:hidden;
     text-indent:100%;
     white-space: nowrap;
+    margin: auto;
+    
+ 
+    
 }
  
 .button:hover {
