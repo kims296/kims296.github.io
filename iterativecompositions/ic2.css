@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background: 433D26;
+  background-color: 3A310D;
 
 }
 
@@ -13,7 +13,13 @@ body {
 }
 
 .column {
-  background-color: yellow;
-  width: 180px;
+  width:300px;
+  height:300px;
+  margin:20px;
+  padding:20px;
+  float:left;
+  background-color:CFC59C;
+  font-family: sans-serif;
+
   
 }
