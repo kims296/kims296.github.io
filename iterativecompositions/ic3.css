@@ -13,10 +13,11 @@ body {
     overflow:hidden;
     text-indent:100%;
     white-space: nowrap;
-    margin: auto;
+    position: fixed;
+    left: 40%;
+    top: 35%;
     
  
-    
 }
  
 .button:hover {
@@ -28,4 +29,11 @@ body {
 	background-position: -500px 0;
 
 } 
+
+.circle {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	border-radius: 150px;
+}
 
