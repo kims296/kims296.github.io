@@ -8,6 +8,9 @@
     animation-duration: 7s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
+    position: fixed;
+	left: 18.5%;
+	top: 40%;
 }
 
 .seconds {
@@ -41,6 +44,9 @@
     animation-duration: 2s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
+    position: fixed;
+	left: 1%;
+	top: 47%;
 }
 
 .seconds1 {
@@ -75,6 +81,9 @@
     animation-duration: 12s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
+    position: fixed;
+	left: 8%;
+	top: 43%;
 }
 
 .seconds2 {
@@ -109,7 +118,7 @@
     animation-timing-function: linear;
     animation-iteration-count: infinite;
     position: fixed;
-	left: 35%;
+	left: 71%;
 	top: 23%;
 }
 
@@ -144,8 +153,8 @@
     animation-timing-function: linear;
     animation-iteration-count: infinite;
     position: fixed;
-	left: 78%;
-	top: 57%;
+	left: 50%;
+	top: 34%;
 }
 
 .seconds4 {
@@ -154,6 +163,41 @@
     background-color: black;
     position: absolute;
     top: 150px;
+    left: 1px;
+
+}
+
+@keyframes myclock {
+    from {
+        transform: rotate(0deg);
+   }
+    to {
+        transform: rotate(360deg);
+   }
+        
+}
+
+.clock5 {
+    width: 250px;
+    height: 250px;
+    background-color: dad8d0;
+    border-radius: 100%;
+    position: relative;
+    animation-name: myclock;
+    animation-duration: 30s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    position: fixed;
+	left: 32.5%;
+	top: 37%;
+}
+
+.seconds5 {
+    width: 130px;
+    height: 5px;
+    background-color: black;
+    position: absolute;
+    top: 130px;
     left: 1px;
 
 }
