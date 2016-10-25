@@ -1,3 +1,14 @@
+body {
+    
+}
+
+h1 {
+    font-family: Zapfino
+    
+}
+
+
+
 .clock {
     width: 200px;
     height: 200px;
@@ -108,8 +119,8 @@
 }
 
 .clock3 {
-    width: 400px;
-    height: 400px;
+    width: 390px;
+    height: 390px;
     background-color: d9e2e1;
     border-radius: 100%;
     position: relative;
@@ -119,7 +130,21 @@
     animation-iteration-count: infinite;
     position: fixed;
 	left: 71%;
-	top: 23%;
+	top: 25%;
+	background-color: d9e2e1;
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+    transition: all 3s;
+   
+}
+
+.clock3:hover {
+    width: 415px;
+    height: 415px;
+    background-color: 535B5D;
+    line-height: 300px;
+    color: white;
 }
 
 .seconds3 {
@@ -211,3 +236,4 @@
    }
         
 }
+
