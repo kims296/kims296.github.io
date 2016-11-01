@@ -1,13 +1,14 @@
 body {
-    background-image: url(wallpapercolor.jpg);
+    background-image: url(background.JPG);
     background-size: cover;
     background-position: center center;
 }
 
 h1 {
-    font-family: Arial;
+    font-family: zapfino;
 }
 
 body {
-    font-family: zapfino;
+    font-family: avenir;
+    
 }
