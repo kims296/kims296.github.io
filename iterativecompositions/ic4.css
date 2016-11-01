@@ -1,6 +1,8 @@
 
 h1 {
-    font-family: Zapfino
+    font-family: Zapfino;
+    position: fixed;
+    
     
 }
 

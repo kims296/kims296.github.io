@@ -8,5 +8,8 @@ body {
 h1 {
     color: white;
     font-family: snell roundhand;
+    position: fixed;
+    left: 30%;
+    top: 60%;
     
 }
