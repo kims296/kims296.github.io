@@ -1,5 +1,12 @@
 body {
-    background-image: url(IMG_4283.jpeg);
+    background-image: url(angela.jpeg);
     background-size: cover;
     background-position: center center;
+}
+
+h1 {
+    font-family: savoye LET;
+    font-size: 50pt;
+    position: fixed;
+    left: 70%;
 }
