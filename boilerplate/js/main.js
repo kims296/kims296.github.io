@@ -13,11 +13,12 @@ var myCounter = 1;
 
 $(".dot").each(function() {
     $(this).css("opacity", opacity/150); 
-    $(this).html(myCounter); myCounter++;
+    $(this).html(myCounter); 
+    myCounter++;
     $(this).css("height", myCounter+50);
     $(this).css("width", myCounter+50);
-    $(this).css("top",Math.floor(Math.random()*$
-    (window).height()));
+    console.log(myCounter+50);
+    $(this).css("top",Math.floor(Math.random()*$(window).height()));
     
     myCounter++;
     opacity++;
