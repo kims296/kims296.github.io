@@ -44,16 +44,17 @@ $("#toggle").click(function() {
     clicked = false;
     
   }
-  
-    
 });
+
 $('#status').mouseenter(function(){
-    if (clicked == true){$('#cat').show();
+    if (clicked == true){
+    $('#cat').show();
     }
 });
 
 $('#status').mouseleave(function(){
-    if(clicked == true){$('#cat').hide();
+    if(clicked == true){
+    $('#cat').hide();
     
     }
 }); 
