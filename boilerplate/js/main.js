@@ -12,7 +12,7 @@ var myCounter = 1;
  
 
 $(".dot").each(function() {
-    $(this).css("opacity", opacity/150); 
+    $(this).css("opacity", opacity/100); 
     $(this).html(myCounter); 
     myCounter++;
     $(this).css("height", myCounter+50);
