@@ -32,3 +32,11 @@ body {
     border-radius: 20%;
     border: 30px solid white;
 }
+
+.what{ 
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    
+}

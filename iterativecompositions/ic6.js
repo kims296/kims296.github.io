@@ -2,7 +2,7 @@
 
 for (var i=0; i < 500; i++) {
     $("body").append("<div class='dot'></div>");
-    $("body").append("<img src= 'img/snowflake.jpg'></img>");
+    $("body").append("<img src='img/snowflake.jpg'></img>");
 }
 
 var opacity = 0;
@@ -32,3 +32,4 @@ $(".dot").click(function() {
     $(this).css("background-color" , "white");
     $(this).toggleClass("point");
 });
+
