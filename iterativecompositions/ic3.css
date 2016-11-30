@@ -1,5 +1,5 @@
 body {
-    background-color: A9816A;
+    background-color: gray;
     margin: 0;
     
 }   
@@ -74,11 +74,11 @@ body {
    margin: 50px 0;
    position: relative;
    display: block;
-   color: red;
+   color: white;
    width: 0px;
    height: 0px;
    border-right:  100px solid transparent;
-   border-bottom: 70px  solid red;
+   border-bottom: 70px  solid white;
    border-left:   100px solid transparent;
    -moz-transform:    rotate(35deg);
    -webkit-transform: rotate(35deg);
@@ -88,7 +88,7 @@ body {
 }
 
 .star-five:before {
-   border-bottom: 80px solid red;
+   border-bottom: 80px solid white;
    border-left: 30px solid transparent;
    border-right: 30px solid transparent;
    position: absolute;
@@ -108,13 +108,13 @@ body {
 .star-five:after {
    position: absolute;
    display: block;
-   color: red;
+   color: white;
    top: 3px;
    left: -105px;
    width: 0px;
    height: 0px;
    border-right: 100px solid transparent;
-   border-bottom: 70px solid red;
+   border-bottom: 70px solid white;
    border-left: 100px solid transparent;
    -webkit-transform: rotate(-70deg);
    -moz-transform:    rotate(-70deg);
