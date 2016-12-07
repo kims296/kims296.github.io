@@ -1,60 +1,73 @@
 body {
   background: gray;
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 }
 .column1 {
-    background-color: a2adbc;
+    background-color: #a2adbc;
     height: 550px;
     width: 170px;
     transition: all 2s;
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-    font-size: 20px;
+    font-family: snell roundhand;
+    font-weight: normal;
+    font-size: 23px;
     line-height: 200px;
-    color: a2adbc;
+    color: black;
     text-align: center;
     margin: 100px;
+    position: absolute;
+    left: 50px;
+    top: 0px;
+    z-index: 6000;
 }
 
 .column1:hover {
     width: 500px;
     height: 550px;
-    background-color: a2adbc;
+    background-color: #a2adbc;
     line-height: 300px;
     color: white;
 }
 .column2 {
-    background-color: cfc59c; 
+    background-color: #cfc59c; 
     height: 550px;
-    width: 150px;
+    width: 170px;
     transition: all 2s;
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-    font-size: 20px;
+    font-family: snell roundhand;
+    font-weight: normal;
+    font-size: 23px;
     line-height: 200px;
-    color: cfc59c; 
+    color: white; 
     text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 240px;
+    top: 0px;
+    z-index: 5000;
    
 }
 
 .column2:hover {
     width: 500px;
     height: 550px;
-    background-color: cfc59c; 
+    background-color: #cfc59c; 
     line-height: 300px;
     color: white;
 }
 .column3 {
     background-color: black;
     height: 550px;
-    width: 150px;
+    width: 170px;
     transition: all 2s;
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-    font-size: 20px;
+    font-family: snell roundhand;
+    font-weight: normal;
+    font-size: 23px;
     line-height: 200px;
-    color: black;
+    color: white;
     text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 430px;
+    top: 0px;
+    z-index: 4000;
    
 }
 
@@ -64,68 +77,85 @@ body {
     background-color: black;
     line-height: 300px;
     color: white;
+  
 }
 .column4 {
-    background-color: df9496;
+    background-color: #df9496;
     height: 550px;
-    width: 150px;
+    width: 170px;
     transition: all 2s;
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-    font-size: 20px;
+    font-family: snell roundhand;
+    font-weight: normal;
+    font-size: 23px;
     line-height: 200px;
-    color: df9496;
+    color: white;
     text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 620px;
+    top: 0px;
+    z-index: 3000;
    
 }
 
 .column4:hover {
     width: 500px;
     height: 550px;
-    background-color: df9496;
+    background-color: #df9496;
     line-height: 300px;
     color: white;
+    
 }
 .column5 {
-    background-color: A6E0EE;
+    background-color: #6c7b82;
     height: 550px;
-    width: 150px;
+    width: 170px;
     transition: all 2s;
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-    font-size: 20px;
+    font-family: snell roundhand;
+    font-weight: normal;
+    font-size: 23px;
     line-height: 200px;
-    color: A6E0EE;
+    color: white;
     text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 810px;
+    top: 0px;
+    z-index: 2000;
    
 }
 
 .column5:hover {
     width: 500px;
     height: 550px;
-    background-color: A6E0EE;
+    background-color: #6c7b82;
     line-height: 300px;
     color: white;
 }
 .column6 {
-    background-color: a2adbc;
+    background-color: white;
     height: 550px;
-    width: 150px;
+    width: 170px;
     transition: all 2s;
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-    font-size: 20px;
+    font-family: snell roundhand;
+    font-weight: normal;
+    font-size: 23px;
     line-height: 200px;
-    color: a2adbc;
+    color: black;
     text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 1000px;
+    top: 0px;
+    z-index: -6000;
    
 }
 
 .column6:hover {
     width: 500px;
     height: 550px;
-    background-color: a2adbc;
+    background-color: white;
     line-height: 300px;
-    color: white;
+    color: black;
 }
 
