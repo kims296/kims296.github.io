@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #1f1f1f;
+  background: gray;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
@@ -338,7 +338,7 @@ body {
 .el:nth-child(1) .el__bg:before {
   -webkit-transition-delay: 0s;
           transition-delay: 0s;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-3.jpg");
+  background-color: a2adbc;
 }
 .el:nth-child(2) {
   -webkit-transform: translate3d(105.20833%, 0, 0);
@@ -366,7 +366,7 @@ body {
 .el:nth-child(2) .el__bg:before {
   -webkit-transition-delay: 0.1s;
           transition-delay: 0.1s;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-4.jpg");
+  background-color: 3A310D3; 
 }
 .el:nth-child(3) {
   -webkit-transform: translate3d(210.41667%, 0, 0);
@@ -394,7 +394,7 @@ body {
 .el:nth-child(3) .el__bg:before {
   -webkit-transition-delay: 0.2s;
           transition-delay: 0.2s;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-5.jpg");
+  background-color: black;
 }
 .el:nth-child(4) {
   -webkit-transform: translate3d(315.625%, 0, 0);
@@ -422,7 +422,7 @@ body {
 .el:nth-child(4) .el__bg:before {
   -webkit-transition-delay: 0.3s;
           transition-delay: 0.3s;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-6.jpg");
+  background-color: df9496;
 }
 .el:nth-child(5) {
   -webkit-transform: translate3d(420.83333%, 0, 0);
@@ -450,7 +450,7 @@ body {
 .el:nth-child(5) .el__bg:before {
   -webkit-transition-delay: 0.4s;
           transition-delay: 0.4s;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-7.jpg");
+  background-color: A6E0EE; 
 }
 .el:hover .el__bg:after {
   opacity: 0;
@@ -505,7 +505,7 @@ body {
 .el:nth-child(6) .el__bg:before {
   -webkit-transition-delay: 0.4s;
           transition-delay: 0.4s;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-7.jpg");
+  background-color: black;
 }
 
 .icon-link {
