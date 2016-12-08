@@ -6,17 +6,18 @@ body {
     height: 550px;
     width: 170px;
     transition: all 2s;
-    font-family: snell roundhand;
+    font-family: zapfino;
     font-weight: normal;
-    font-size: 23px;
+    font-size: 12pt;
     line-height: 200px;
-    color: black;
+    color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
     left: 50px;
     top: 0px;
     z-index: 6000;
+    border: solid white;
 }
 
 .column1:hover {
@@ -31,9 +32,9 @@ body {
     height: 550px;
     width: 170px;
     transition: all 2s;
-    font-family: snell roundhand;
+    font-family: zapfino;
     font-weight: normal;
-    font-size: 23px;
+    font-size: 12pt;
     line-height: 200px;
     color: white; 
     text-align: center;
@@ -42,6 +43,7 @@ body {
     left: 240px;
     top: 0px;
     z-index: 5000;
+    border: solid white;
    
 }
 
@@ -57,9 +59,9 @@ body {
     height: 550px;
     width: 170px;
     transition: all 2s;
-    font-family: snell roundhand;
+    font-family: zapfino;
     font-weight: normal;
-    font-size: 23px;
+    font-size: 12pt;
     line-height: 200px;
     color: white;
     text-align: center;
@@ -68,6 +70,7 @@ body {
     left: 430px;
     top: 0px;
     z-index: 4000;
+    border: solid white;
    
 }
 
@@ -84,9 +87,9 @@ body {
     height: 550px;
     width: 170px;
     transition: all 2s;
-    font-family: snell roundhand;
+    font-family: zapfino;
     font-weight: normal;
-    font-size: 23px;
+    font-size: 12pt;
     line-height: 200px;
     color: white;
     text-align: center;
@@ -95,6 +98,7 @@ body {
     left: 620px;
     top: 0px;
     z-index: 3000;
+    border: solid white;
    
 }
 
@@ -111,9 +115,9 @@ body {
     height: 550px;
     width: 170px;
     transition: all 2s;
-    font-family: snell roundhand;
+    font-family: zapfino;
     font-weight: normal;
-    font-size: 23px;
+    font-size: 12pt;
     line-height: 200px;
     color: white;
     text-align: center;
@@ -122,6 +126,7 @@ body {
     left: 810px;
     top: 0px;
     z-index: 2000;
+    border: solid white;
    
 }
 
@@ -133,21 +138,22 @@ body {
     color: white;
 }
 .column6 {
-    background-color: white;
+    background-color: #2D2C2C;
     height: 550px;
     width: 170px;
     transition: all 2s;
-    font-family: snell roundhand;
+    font-family: zapfino;
     font-weight: normal;
-    font-size: 23px;
+    font-size: 12pt;
     line-height: 200px;
-    color: black;
+    color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
     left: 1000px;
     top: 0px;
     z-index: -6000;
+    border: solid white;
    
 }
 
