@@ -5,10 +5,10 @@ body {
     background-color: #a2adbc;
     height: 550px;
     width: 170px;
-    transition: all 2s;
-    font-family: zapfino;
-    font-weight: normal;
-    font-size: 12pt;
+    transition: all 1s;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 15pt;
     line-height: 200px;
     color: white;
     text-align: center;
@@ -31,10 +31,10 @@ body {
     background-color: #cfc59c; 
     height: 550px;
     width: 170px;
-    transition: all 2s;
-    font-family: zapfino;
-    font-weight: normal;
-    font-size: 12pt;
+    transition: all 1s;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 15pt;
     line-height: 200px;
     color: white; 
     text-align: center;
@@ -58,10 +58,10 @@ body {
     background-color: black;
     height: 550px;
     width: 170px;
-    transition: all 2s;
-    font-family: zapfino;
-    font-weight: normal;
-    font-size: 12pt;
+    transition: all 1s;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 15pt;
     line-height: 200px;
     color: white;
     text-align: center;
@@ -86,10 +86,10 @@ body {
     background-color: #df9496;
     height: 550px;
     width: 170px;
-    transition: all 2s;
-    font-family: zapfino;
-    font-weight: normal;
-    font-size: 12pt;
+    transition: all 1s;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 15pt;
     line-height: 200px;
     color: white;
     text-align: center;
@@ -114,10 +114,10 @@ body {
     background-color: #6c7b82;
     height: 550px;
     width: 170px;
-    transition: all 2s;
-    font-family: zapfino;
-    font-weight: normal;
-    font-size: 12pt;
+    transition: all 1s;
+    font-family: Helvetica, Arial, sans-serifo;
+    font-weight: bold;
+    font-size: 15pt;
     line-height: 200px;
     color: white;
     text-align: center;
@@ -141,10 +141,10 @@ body {
     background-color: #2D2C2C;
     height: 550px;
     width: 170px;
-    transition: all 2s;
-    font-family: zapfino;
-    font-weight: normal;
-    font-size: 12pt;
+    transition: all 1s;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 15pt;
     line-height: 200px;
     color: white;
     text-align: center;
@@ -152,7 +152,7 @@ body {
     position: absolute;
     left: 1000px;
     top: 0px;
-    z-index: -6000;
+    z-index: -1;
     border: solid white;
    
 }
@@ -160,8 +160,8 @@ body {
 .column6:hover {
     width: 500px;
     height: 550px;
-    background-color: white;
+    background-color: #2D2C2C;
     line-height: 300px;
-    color: black;
+    color: white;
 }
 
