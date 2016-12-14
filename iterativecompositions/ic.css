@@ -19,19 +19,19 @@ body {
 }
 
 .whatever {
-    background-color: 8BBB8A;
+    background-color: #a2adbc;
     
 }
 p {
     color: white;
-    background-color: 8A8DBB;
+    background-color: #8A8DBB;
     width: 300px;
     overflow: hidden;
     text-decoration: underline;
 }
 
  .special {
-     background-color: EFBB24;
+     background-color: #EFBB24;
      color: white;
      padding: 40px;
  }
