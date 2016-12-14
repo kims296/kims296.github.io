@@ -34,13 +34,13 @@ body {
 .circle {
 	width: 250px;
 	height: 250px;
-	background-color: 2A2406;
+	background-color: #2A2406;
 	border-radius: 150px;
 	display: block;
     background-image: url('chocolate.gif');
     background-repeat: no-repeat;
-    overflow:hidden;
-    text-indent:100%;
+    overflow: hidden;
+    text-indent: 100%;
     white-space: nowrap;
     position: fixed;
 	left: 5%;
@@ -53,22 +53,24 @@ body {
 }
 
 .triangle {
-	border-bottom: none;
-	border-top: 300px solid black;
-	border-right: 210px solid transparent;
-	border-left: 210px solid transparent;
-	width:0;
-	position: fixed;
-	left: 70%;
-	top: 40%;
 	display: block;
-    background-image: url('icecream.gif');
-    background-repeat: no-repeat;
-    overflow:hidden;
-    text-indent:100%;
-    white-space: nowrap;
-	
+	width: 374px;
+	height: 250px;
+	background-image: url('icecream.gif');
+	background-repeat: no-repeat;
+	overflow:hidden;
+	text-indent:100%;
+	white-space: nowrap;
+	position: absolute;
+    left: 60%;
+    top: 35%;
 }
+ 
+.triangle:hover {
+	background-position: -250px 0;
+
+}
+
 
 .star-five {
    margin: 50px 0;

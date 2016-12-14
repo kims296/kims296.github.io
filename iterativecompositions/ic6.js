@@ -11,7 +11,6 @@ var myCounter = 1;
 
 $(".dot").each(function() {
     $(this).css("opacity", opacity/0); 
-    $(this).html(myCounter); 
     $(this).css("height", myCounter+50);
     $(this).css("width", myCounter+50);
     console.log(myCounter+50);
