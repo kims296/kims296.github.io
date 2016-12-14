@@ -1,6 +1,9 @@
 body {
     background-color: #2D2C2C;
     position: absolute;
+    background-image: url(snow.jpg);
+    background-size: cover;
+    background-position: center center;
 }
 
 
@@ -8,7 +11,7 @@ body {
 .dot {
     width: .5px;
     height: .5px;
-    background-color: black;
+    background-color: #2D2C2C;
     border-radius: 12%;
     margin: 35px;
     display: inline-block;
