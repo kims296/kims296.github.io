@@ -11,12 +11,9 @@ h1 {
     left: 45%;
     top: 3%;
     font-size: 35pt;
-    line-height: 200px;
-    text-align: center;
-    margin: 100px;
-    position: fixed;
-
+    
 }
+
 h1 {
     font-family: zapfino;
     color: white;
