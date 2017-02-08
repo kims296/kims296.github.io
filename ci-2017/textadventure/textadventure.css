@@ -8,19 +8,25 @@ body {
 h1 {
     font-family: zapfino;
     color: white;
-    position: fixed;
     left: 45%;
     top: 3%;
     font-size: 35pt;
+    line-height: 200px;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
 
 }
 h1 {
     font-family: zapfino;
     color: white;
-    position: fixed;
-    left: 45%;
+    left: 55%;
     top: 3%;
     font-size: 35pt;
+    line-height: 200px;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
 
 }
 
