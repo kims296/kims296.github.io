@@ -13,7 +13,8 @@ h1 {
     font-size: 35pt;
     line-height: 200px;
     text-align: center;
-    position: absolute;
+    margin: 100px;
+    position: fixed;
 
 }
 h1 {
