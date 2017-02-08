@@ -1,37 +1,45 @@
 body {
-    background-image: url(black.jpg);
+    background-image: url(food.1.jpg);
     background-size: cover;
     position: absolute;
     background-position: center center;
+    width: 100%;
+    margin: 0px;
 }
 
 h1 {
     font-family: zapfino;
-    color: white;
-    position: fixed;
-    left: 45%;
-    top: 3%;
-    font-size: 35pt;
+    font-size: 45px;
+    width: 100%;
+    text-align: center;
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+    margin: -.5em;
     
 }
 
-h1 {
+#english {
+	font-family: zapfino;
+    left: 45%;
+    top: 0%;
+    font-size: 45px;
+ 
+}
+
+#korean {
     font-family: zapfino;
-    color: white;
-    left: 55%;
-    top: 3%;
-    font-size: 35pt;
-    position: fixed;
+    left: 45%;
+    top: 0%;
+    font-size: 45px;
 
 }
 
-
-
-.block {
-  width:1350px;
-  height:650px;
-  margin:20px;
-  padding:20px;
-  display: inline-block;
-  position: absolute;
+a {
+	color: black;
+    text-decoration: none;
+    cursor: auto;
 }
+
