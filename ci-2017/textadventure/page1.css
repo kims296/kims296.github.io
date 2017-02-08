@@ -1,0 +1,8 @@
+body {
+    background-image: url(food.1.jpg);
+    background-size: cover;
+    position: absolute;
+    background-position: center center;
+    width: 100%;
+    margin: 0px;
+}
