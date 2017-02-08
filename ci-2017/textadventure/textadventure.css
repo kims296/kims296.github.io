@@ -3,3 +3,16 @@ body {
     background-size: cover;
     background-position: center center;
 }
+
+h1 {
+    font-family: zapfino;
+}
+
+.block {
+  width:1350px;
+  height:650px;
+  margin:20px;
+  padding:20px;
+  display: inline-block;
+  position: absolute;
+}
