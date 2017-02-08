@@ -1,12 +1,13 @@
 body {
     background-image: url(black.jpg);
     background-size: cover;
+    position: absolute;
     background-position: center center;
 }
 
 h1 {
     font-family: zapfino;
-    
+
 }
 
 .block {
