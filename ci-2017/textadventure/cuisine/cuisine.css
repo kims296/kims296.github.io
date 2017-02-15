@@ -1,5 +1,5 @@
 body {
-    background-image: url(red.png);
+    background-image: url(plate.jpg);
     background-size: cover;
     position: absolute;
     background-position: center center;
@@ -31,7 +31,7 @@ h1 {
     font-family: zapfino;
     font-weight: bold;
     font-size: 25px;
-    line-height: 90px;
+    line-height: 110px;
     color: white;
     text-align: center;
     margin: 100px;
@@ -65,7 +65,7 @@ h1 {
     font-family: zapfino;
     font-weight: bold;
     font-size: 25px;
-    line-height: 90px;
+    line-height: 110px;
     color: white; 
     text-align: center;
     margin: 100px;
@@ -94,7 +94,7 @@ h1 {
     font-family: zapfino;
     font-weight: bold;
     font-size: 25px;
-    line-height: 90px;
+    line-height: 110px;
     color: white;
     text-align: center;
     margin: 100px;
@@ -124,7 +124,7 @@ h1 {
     font-family: zapfino;
     font-weight: bold;
     font-size: 25px;
-    line-height: 90px;
+    line-height: 110px;
     color: white;
     text-align: center;
     margin: 100px;
@@ -153,7 +153,7 @@ h1 {
     font-family: zapfino;
     font-weight: bold;
     font-size: 25px;
-    line-height: 90px;
+    line-height: 110px;
     color: white;
     text-align: center;
     margin: 100px;
@@ -181,7 +181,7 @@ h1 {
     font-family: zapfino;
     font-weight: bold;
     font-size: 25px;
-    line-height: 90px;
+    line-height: 110px;
     color: white;
     text-align: center;
     margin: 100px;

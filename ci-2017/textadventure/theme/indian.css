@@ -1,5 +1,5 @@
 body {
-    background-image: url(plate.jpg);
+    background-image: url(spice.jpg);
     background-size: cover;
     position: absolute;
     background-position: center center;
@@ -24,7 +24,7 @@ h1 {
 }
 
 .column1 {
-    background-color: #0B0C36;
+    background-color: black;
     height: 90px;
     width: 170px;
     transition: all 1s;
@@ -39,7 +39,7 @@ h1 {
     left: 150px;
     top: 80px;
     z-index: 6000;
-    background-image: url(pizza.jpg);
+    background-image: url(hands.jpg);
     border: solid white;
 
 
@@ -48,18 +48,18 @@ h1 {
 .column1:hover {
     width: 350px;
     height: 250px;
-    background-color: #0B0C36;
+    background-color: black;
     line-height: 250px;
     color: white;
 }
 
 .column1:active {
-    background-position: -500px 0;
+	background-position: -500px 0;
 
 } 
 
 .column2 {
-    background-color: #C60C30; 
+    background-color: black; 
     height: 90px;
     width: 170px;
     transition: all 1s;
@@ -83,12 +83,12 @@ h1 {
 .column2:hover {
     width: 350px;
     height: 250px;
-    background-color: #C60C30; 
+    background-color: black; 
     line-height: 250px;
     color: white;
 }
 .column3 {
-    background-color: #FFDE00;
+    background-color: black;
     height: 90px;
     width: 170px;
     transition: all 1s;
@@ -114,11 +114,10 @@ h1 {
     background-color: black;
     line-height: 250px;
     color: white;
-    background-color: #FFDE00;
   
 }
 .column4 {
-    background-color: #003821;
+    background-color: black;
     height: 90px;
     width: 170px;
     transition: all 1s;
@@ -141,13 +140,13 @@ h1 {
 .column4:hover {
     width: 350px;
     height: 250px;
-    background-color: #003821;
+    background-color: black;
     line-height: 250px;
     color: white;
     
 }
 .column5 {
-    background-color: #F64D1C;
+    background-color: black;
     height: 90px;
     width: 170px;
     transition: all 1s;
@@ -170,7 +169,7 @@ h1 {
 .column5:hover {
     width: 350px;
     height: 250px;
-    background-color: #F64D1C;
+    background-color: black;
     line-height: 250px;
     color: white;
 }

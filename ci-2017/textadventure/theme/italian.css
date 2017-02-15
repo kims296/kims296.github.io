@@ -1,5 +1,5 @@
 body {
-    background-image: url(plate.jpg);
+    background-image: url(pasta.jpg);
     background-size: cover;
     position: absolute;
     background-position: center center;
@@ -54,7 +54,7 @@ h1 {
 }
 
 .column1:active {
-    background-position: -500px 0;
+	background-position: -500px 0;
 
 } 
 

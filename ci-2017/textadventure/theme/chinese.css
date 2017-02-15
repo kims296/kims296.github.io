@@ -54,7 +54,7 @@ h1 {
 }
 
 .column1:active {
-    background-position: -500px 0;
+	background-position: -500px 0;
 
 } 
 
@@ -174,5 +174,3 @@ h1 {
     line-height: 250px;
     color: white;
 }
-
-

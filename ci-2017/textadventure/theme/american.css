@@ -1,5 +1,5 @@
 body {
-    background-image: url(red.png);
+    background-image: url(mushroom.jpg);
     background-size: cover;
     position: absolute;
     background-position: center center;
@@ -28,10 +28,10 @@ h1 {
     height: 90px;
     width: 170px;
     transition: all 1s;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: zapfino;
     font-weight: bold;
     font-size: 25px;
-    line-height: 90px;
+    line-height: 110px;
     color: white;
     text-align: center;
     margin: 100px;
@@ -40,6 +40,7 @@ h1 {
     top: 80px;
     z-index: 6000;
     background-image: url(pizza.jpg);
+    border: solid white;
 
 
 }
@@ -62,10 +63,10 @@ h1 {
     height: 90px;
     width: 170px;
     transition: all 1s;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: zapfino;
     font-weight: bold;
     font-size: 25px;
-    line-height: 90px;
+    line-height: 110px;
     color: white; 
     text-align: center;
     margin: 100px;
@@ -91,10 +92,10 @@ h1 {
     height: 90px;
     width: 170px;
     transition: all 1s;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: zapfino;
     font-weight: bold;
     font-size: 25px;
-    line-height: 90px;
+    line-height: 110px;
     color: white;
     text-align: center;
     margin: 100px;
@@ -121,15 +122,15 @@ h1 {
     height: 90px;
     width: 170px;
     transition: all 1s;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: zapfino;
     font-weight: bold;
     font-size: 25px;
-    line-height: 90px;
+    line-height: 110px;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 150px;
+    left: 350px;
     top: 350px;
     z-index: 3000;
     border: solid white;
@@ -150,15 +151,15 @@ h1 {
     height: 90px;
     width: 170px;
     transition: all 1s;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: zapfino;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 24px;
     line-height: 90px;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 550px;
+    left: 750px;
     top: 350px;
     z-index: 2000;
     border: solid white;
