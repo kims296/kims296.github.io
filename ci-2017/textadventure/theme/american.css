@@ -1,0 +1,204 @@
+body {
+    background-image: url(red.png);
+    background-size: cover;
+    position: absolute;
+    background-position: center center;
+    width: 100%;
+    margin: 0px;
+}
+
+h1 {
+    font-family: snell roundhand;
+    font-size: 70px;
+    width: 100%;
+    text-align: center;
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+    margin-bottom: -90px;
+    color: white;
+    font-weight: lighter;
+
+}
+
+.column1 {
+    background-color: #0B0C36;
+    height: 90px;
+    width: 170px;
+    transition: all 1s;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 90px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 150px;
+    top: 80px;
+    z-index: 6000;
+    border: solid white;
+    background-image: url(pizza.jpg);
+
+}
+
+.column1:hover {
+    width: 350px;
+    height: 250px;
+    background-color: #0B0C36;
+    line-height: 250px;
+    color: white;
+}
+
+.column1:active {
+	background-position: -500px 0;
+
+} 
+
+.column2 {
+    background-color: #C60C30; 
+    height: 90px;
+    width: 170px;
+    transition: all 1s;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 90px;
+    color: white; 
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 550px;
+    top: 80px;
+    z-index: 5000;
+    border: solid white;
+    background-image: url(korean.jpg);
+    
+   
+}
+
+.column2:hover {
+    width: 350px;
+    height: 250px;
+    background-color: #C60C30; 
+    line-height: 250px;
+    color: white;
+}
+.column3 {
+    background-color: #FFDE00;
+    height: 90px;
+    width: 170px;
+    transition: all 1s;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 90px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 950px;
+    top: 80px;
+    z-index: 4000;
+    border: solid white;
+    background-image: url(chinese.jpg);
+   
+}
+
+.column3:hover {
+    width: 350px;
+    height: 250px;
+    background-color: black;
+    line-height: 250px;
+    color: white;
+    background-color: #FFDE00;
+  
+}
+.column4 {
+    background-color: #003821;
+    height: 90px;
+    width: 170px;
+    transition: all 1s;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 90px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 150px;
+    top: 350px;
+    z-index: 3000;
+    border: solid white;
+    background-image: url(mexican.jpg);
+   
+}
+
+.column4:hover {
+    width: 350px;
+    height: 250px;
+    background-color: #003821;
+    line-height: 250px;
+    color: white;
+    
+}
+.column5 {
+    background-color: #F64D1C;
+    height: 90px;
+    width: 170px;
+    transition: all 1s;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 90px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 550px;
+    top: 350px;
+    z-index: 2000;
+    border: solid white;
+    background-image: url(indian.jpg);
+   
+}
+
+.column5:hover {
+    width: 350px;
+    height: 250px;
+    background-color: #F64D1C;
+    line-height: 250px;
+    color: white;
+}
+.column6 {
+    background-color: #EAF3F8;
+    height: 90px;
+    width: 170px;
+    transition: all 1s;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 90px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 950px;
+    top: 350px;
+    z-index: 1000;
+    border: solid white;
+    background-image: url(italian.jpg);
+   
+}
+
+.column6:hover {
+    width: 350px;
+    height: 250px;
+    background-color: #EAF3F8;
+    line-height: 250px;
+    color: white;
+}
+
