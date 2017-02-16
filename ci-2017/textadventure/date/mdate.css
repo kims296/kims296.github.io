@@ -16,7 +16,7 @@ body {
     font-family: zapfino;
     font-weight: bold;
     font-size: 25px;
-    line-height: 200px;
+    line-height: 110px;
     color: white;
     text-align: center;
     margin: 100px;
@@ -24,7 +24,7 @@ body {
     left: 150px;
     top: 150px;
     z-index: 6000;
-    background-image: url(gramercy.jpg);
+    background-image: url(contenta.jpg);
     border: solid white;
 
 
@@ -51,7 +51,7 @@ body {
     font-family: zapfino;
     font-weight: bold;
     font-size: 25px;
-    line-height: 110px;
+    line-height: 200px;
     color: white; 
     text-align: center;
     margin: 100px;
@@ -60,7 +60,7 @@ body {
     top: 150px;
     z-index: 5000;
     border: solid white;
-    background-image: url(bluehill.jpg);
+    background-image: url(pampano.jpg);
     
    
 }
@@ -80,7 +80,7 @@ body {
     font-family: zapfino;
     font-weight: bold;
     font-size: 25px;
-    line-height: 200px;
+    line-height: 110px;
     color: white;
     text-align: center;
     margin: 100px;
