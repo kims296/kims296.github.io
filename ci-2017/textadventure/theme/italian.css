@@ -24,7 +24,7 @@ h1 {
 }
 
 .column1 {
-    background-color: #0B0C36;
+    background-color: #319400;
     height: 90px;
     width: 170px;
     transition: all 1s;
@@ -48,7 +48,7 @@ h1 {
 .column1:hover {
     width: 350px;
     height: 250px;
-    background-color: #0B0C36;
+    background-color: #319400;
     line-height: 250px;
     color: white;
 }
@@ -59,7 +59,7 @@ h1 {
 } 
 
 .column2 {
-    background-color: #C60C30; 
+    background-color: #319400; 
     height: 90px;
     width: 170px;
     transition: all 1s;
@@ -83,12 +83,12 @@ h1 {
 .column2:hover {
     width: 350px;
     height: 250px;
-    background-color: #C60C30; 
+    background-color: #319400; 
     line-height: 250px;
     color: white;
 }
 .column3 {
-    background-color: #FFDE00;
+    background-color: #319400;
     height: 90px;
     width: 170px;
     transition: all 1s;
@@ -114,11 +114,11 @@ h1 {
     background-color: black;
     line-height: 250px;
     color: white;
-    background-color: #FFDE00;
+    background-color: #319400;
   
 }
 .column4 {
-    background-color: #003821;
+    background-color: #319400;
     height: 90px;
     width: 170px;
     transition: all 1s;
@@ -141,13 +141,13 @@ h1 {
 .column4:hover {
     width: 350px;
     height: 250px;
-    background-color: #003821;
+    background-color: #319400;
     line-height: 250px;
     color: white;
     
 }
 .column5 {
-    background-color: #F64D1C;
+    background-color: #319400;
     height: 90px;
     width: 170px;
     transition: all 1s;
@@ -170,7 +170,7 @@ h1 {
 .column5:hover {
     width: 350px;
     height: 250px;
-    background-color: #F64D1C;
+    background-color: #319400;
     line-height: 250px;
     color: white;
 }
