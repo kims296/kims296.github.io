@@ -24,7 +24,7 @@ body {
     left: 150px;
     top: 150px;
     z-index: 6000;
-    background-image: url(gramercy.jpg);
+    background-image: url(scarpetta.jpg);
     border: solid white;
 
 
@@ -50,8 +50,8 @@ body {
     transition: all 1s;
     font-family: zapfino;
     font-weight: bold;
-    font-size: 25px;
-    line-height: 110px;
+    font-size: 23px;
+    line-height: 200px;
     color: white; 
     text-align: center;
     margin: 100px;
@@ -60,7 +60,7 @@ body {
     top: 150px;
     z-index: 5000;
     border: solid white;
-    background-image: url(bluehill.jpg);
+    background-image: url(posto.jpg);
     
    
 }
@@ -89,7 +89,7 @@ body {
     top: 150px;
     z-index: 4000;
     border: solid white;
-    background-image: url(gotham.jpg);
+    background-image: url(giano.jpg);
    
 }
 
