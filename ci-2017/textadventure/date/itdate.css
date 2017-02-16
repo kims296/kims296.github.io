@@ -1,0 +1,104 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    position: absolute;
+    background-position: center center;
+    width: 100%;
+    margin: 0px;
+}
+
+
+.column1 {
+    background-color: #0B0C36;
+    height: 200px;
+    width: 160px;
+    transition: all 1s;
+    font-family: zapfino;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 200px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 150px;
+    top: 150px;
+    z-index: 6000;
+    background-image: url(gramercy.jpg);
+    border: solid white;
+
+
+}
+
+.column1:hover {
+    width: 350px;
+    height: 250px;
+    background-color: #0B0C36;
+    line-height: 250px;
+    color: white;
+}
+
+.column1:active {
+	background-position: -500px 0;
+
+} 
+
+.column2 {
+    background-color: #0B0C36; 
+    height: 200px;
+    width: 160px;
+    transition: all 1s;
+    font-family: zapfino;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 110px;
+    color: white; 
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 550px;
+    top: 150px;
+    z-index: 5000;
+    border: solid white;
+    background-image: url(bluehill.jpg);
+    
+   
+}
+
+.column2:hover {
+    width: 350px;
+    height: 250px;
+    background-color: #0B0C36; 
+    line-height: 250px;
+    color: white;
+}
+.column3 {
+    background-color: #0B0C36;
+    height: 200px;
+    width: 160px;
+    transition: all 1s;
+    font-family: zapfino;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 200px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 950px;
+    top: 150px;
+    z-index: 4000;
+    border: solid white;
+    background-image: url(gotham.jpg);
+   
+}
+
+.column3:hover {
+    width: 350px;
+    height: 250px;
+    background-color: black;
+    line-height: 250px;
+    color: white;
+    background-color: #0B0C36;
+  
+}
