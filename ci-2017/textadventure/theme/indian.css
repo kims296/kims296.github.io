@@ -37,7 +37,7 @@ h1 {
     margin: 100px;
     position: absolute;
     left: 150px;
-    top: 80px;
+    top: 200px;
     z-index: 6000;
     background-image: url(hands.jpg);
     border: solid white;
@@ -60,7 +60,7 @@ h1 {
     margin: 100px;
     position: absolute;
     left: 550px;
-    top: 80px;
+    top: 200px;
     z-index: 5000;
     border: solid white;
     background-image: url(korean.jpg);
@@ -83,7 +83,7 @@ h1 {
     margin: 100px;
     position: absolute;
     left: 950px;
-    top: 80px;
+    top: 200px;
     z-index: 4000;
     border: solid white;
     background-image: url(chinese.jpg);
