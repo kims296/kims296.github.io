@@ -45,18 +45,6 @@ h1 {
 
 }
 
-.column1:hover {
-    width: 350px;
-    height: 250px;
-    background-color: #F64D1C;
-    line-height: 250px;
-    color: white;
-}
-
-.column1:active {
-	background-position: -500px 0;
-
-} 
 
 .column2 {
     background-color: #F64D1C; 
@@ -80,13 +68,7 @@ h1 {
    
 }
 
-.column2:hover {
-    width: 350px;
-    height: 250px;
-    background-color: #F64D1C; 
-    line-height: 250px;
-    color: white;
-}
+
 .column3 {
     background-color: #F64D1C;
     height: 90px;
@@ -108,14 +90,6 @@ h1 {
    
 }
 
-.column3:hover {
-    width: 350px;
-    height: 250px;
-    background-color: #F64D1C;
-    line-height: 250px;
-    color: white;
-  
-}
 .column4 {
     background-color: #F64D1C;
     height: 90px;
@@ -137,14 +111,7 @@ h1 {
    
 }
 
-.column4:hover {
-    width: 350px;
-    height: 250px;
-    background-color: #F64D1C;
-    line-height: 250px;
-    color: white;
-    
-}
+
 .column5 {
     background-color: #F64D1C;
     height: 90px;
@@ -164,14 +131,6 @@ h1 {
     border: solid white;
     background-image: url(indian.jpg);
    
-}
-
-.column5:hover {
-    width: 350px;
-    height: 250px;
-    background-color: #F64D1C;
-    line-height: 250px;
-    color: white;
 }
 
 
