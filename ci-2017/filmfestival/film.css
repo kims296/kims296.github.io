@@ -1,10 +1,12 @@
 body {
     background-color: #93C0E5;
+    position: absolute;
+    left: px;
    
 }
 
 h1 {
-	font-family: 'Abril Fatface', cursive;
+	font-family: 'Holtwood One SC', serif;
     font-size: 90px;
     width: 100%;
     text-align: center;
@@ -18,7 +20,20 @@ h1 {
 
 h2 {
 	font-family: 'Abril Fatface', cursive;
-    font-size: 30px;
+    font-size: 45px;
+    width: 100%;
+    text-align: center;
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    color: #F6D100;
+
+}
+
+h3 {
+	font-family: 'Abril Fatface', cursive;
+    font-size: 35px;
     width: 100%;
     text-align: center;
     -webkit-margin-before: 0px;
@@ -26,19 +41,7 @@ h2 {
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
     color: #EBAF20;
-
-}
-
-h3 {
-	font-family: 'Abril Fatface', cursive;
-    font-size: 30px;
-    width: 100%;
-    text-align: center;
-    -webkit-margin-before: 0px;
-    -webkit-margin-after: 0px;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
-    color: #F7DF04;
+    font-weight: lighter;
 
 }
 
@@ -51,5 +54,31 @@ p {
     -webkit-margin-after: 0px;
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
-    color: #F7DF04;
+    color: #F0E101;
+}
+
+h4 {
+    font-family: 'Alegreya', serif;
+    font-size: 35px;
+    width: 100%;
+    text-align: center;
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    color: #E45822;
+
+}
+
+h5 {
+    font-family: 'Alegreya', serif;
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    color: #E45822;
+
 }
