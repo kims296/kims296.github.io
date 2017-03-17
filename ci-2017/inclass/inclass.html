@@ -5,6 +5,11 @@
         <title>Input/Output</title>
 
         <style>
+            html, body {
+                width: 100%;
+                height: 100%;
+            }
+
             #box {
                 background-color: red;
                 height: 20px;
@@ -33,7 +38,9 @@
             });
 
             window.addEventListener("resize", function(e) {
-                console.log(e);
+                console.log(e.target);
+
+                document.body.style.backgroudColor = "red";
 
                 // Make the page's background brighter the smaller the window
             });
