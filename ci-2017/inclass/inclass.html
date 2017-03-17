@@ -40,7 +40,12 @@
             window.addEventListener("resize", function(e) {
                 console.log(e.target);
 
-                document.body.style.backgroudColor = "red";
+                var height = e.target.innerHeight / 5;
+                var width = e.target.innerWidth / 5;
+
+
+                document.body.style.backgroundColor = "rgb(" + height + "," + width + ", 255)";
+                  
 
                 // Make the page's background brighter the smaller the window
             });
