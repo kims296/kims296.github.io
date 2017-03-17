@@ -9,6 +9,8 @@
                 background-color: red;
                 height: 20px;
                 width: 20px;
+                position: absolute;
+
             }
         </style>
     </head>
@@ -23,6 +25,11 @@
                 console.log(e);
 
                 // Move the red box to be under the mouse
+               var box = document.getElementById("box");
+
+               box.style.top = e.clientY + "px";
+               box.style.left = e.clientX + "px";
+
             });
 
             window.addEventListener("resize", function(e) {
