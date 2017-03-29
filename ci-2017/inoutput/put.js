@@ -1,0 +1,1 @@
+$("#flipbook").turn("peel", "br");
