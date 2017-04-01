@@ -1,0 +1,50 @@
+body {
+    background-image: url(pot1.png) , url(potato.png);
+    background-size: 200px 300px;
+    background-repeat: no-repeat;
+    background-position: 200px 200px;
+    background-attachment: fixed;
+    
+}
+
+
+a {
+    background: black;
+    padding: 10px 20px;
+    color: white;
+    font-size: 20px;
+    font-family: helvetica;
+}
+
+div {
+    height: 100vh;
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: helvetica;
+}
+
+#first {
+    background: transparent;
+}
+
+#second {
+    background: transparent;
+}
+
+#third {
+    background: transparent;
+}
+
+#fourth {
+    background: transparent;
+}
+
+#fifth {
+    background: transparent;
+}
+
+#top {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
