@@ -8,11 +8,12 @@ body {
 
 
 a {
-    background: black;
+    background: gray;
     padding: 10px 20px;
     color: white;
     font-size: 20px;
     font-family: helvetica;
+    margin: 19px;
 
 }
 
@@ -26,6 +27,11 @@ div {
 
 #first {
     background: transparent;
+    background-image: url(chipslice.png);
+    background-size: 400px 350px;
+    background-repeat: no-repeat;
+    background-position: 522px 200px;
+    background-attachment: fixed;
 
 }
 
@@ -55,7 +61,7 @@ div {
     background-image: url(pot1.png);
     background-size: 200px 300px;
     background-repeat: no-repeat;
-    background-position: 200px 200px;
+    background-position: 600px 200px;
     background-attachment: fixed;
     
 }
@@ -64,7 +70,7 @@ div {
     background-image: url(potato.png);
     background-size: 357px 500px;
     background-repeat: no-repeat;
-    background-position: 122px 105px;
+    background-position: 522px 105px;
     background-attachment: fixed;
 }
 
@@ -72,7 +78,7 @@ div {
     background-image: url(potato2.png);
     background-size: 357px 500px;
     background-repeat: no-repeat;
-    background-position: 122px 105px;
+    background-position: 522px 105px;
     background-attachment: fixed;
 
 }
@@ -81,24 +87,15 @@ div {
     background-image: url(potato3.png);
     background-size: 357px 500px;
     background-repeat: no-repeat;
-    background-position: 122px 105px;
+    background-position: 522px 105px;
     background-attachment: fixed;
 }
 
 #potato4 {
-    background-image: url(potato4.png);
-    background-size: 357px 500px;
-    background-repeat: no-repeat;
-    background-position: 122px 105px;
-    background-attachment: fixed;
-
-}
-
-#potato5 {
     background-image: url(potato5.png);
     background-size: 357px 500px;
     background-repeat: no-repeat;
-    background-position: 122px 105px;
+    background-position: 522px 105px;
     background-attachment: fixed;
 
 }

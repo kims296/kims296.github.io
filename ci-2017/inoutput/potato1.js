@@ -1,6 +1,6 @@
 var marginY = 0;
 var destination = 0;
-var speed = 10;
+var speed = 7;
 var scroller = null;
 
 function initScroll(elementID){
