@@ -62,8 +62,45 @@ div {
 
 #potato1 {
     background-image: url(potato.png);
-    background-size: 360px 500px;
+    background-size: 357px 500px;
     background-repeat: no-repeat;
-    background-position: 120px 110px;
+    background-position: 122px 105px;
     background-attachment: fixed;
 }
+
+#potato2 {
+    background-image: url(potato2.png);
+    background-size: 357px 500px;
+    background-repeat: no-repeat;
+    background-position: 122px 105px;
+    background-attachment: fixed;
+
+}
+
+#potato3 {
+    background-image: url(potato3.png);
+    background-size: 357px 500px;
+    background-repeat: no-repeat;
+    background-position: 122px 105px;
+    background-attachment: fixed;
+}
+
+#potato4 {
+    background-image: url(potato4.png);
+    background-size: 357px 500px;
+    background-repeat: no-repeat;
+    background-position: 122px 105px;
+    background-attachment: fixed;
+
+}
+
+#potato5 {
+    background-image: url(potato5.png);
+    background-size: 357px 500px;
+    background-repeat: no-repeat;
+    background-position: 122px 105px;
+    background-attachment: fixed;
+
+}
+
+
