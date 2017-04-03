@@ -18,6 +18,7 @@ function initScroll(elementID){
     	clearTimeout(scroller);
     }
 
+
     window.scroll(0, marginY);
 }
 
