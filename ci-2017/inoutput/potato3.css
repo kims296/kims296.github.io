@@ -92,7 +92,7 @@ div {
 }
 
 #potato4 {
-    background-image: url(potato5.png);
+    background-image: url(potato4.png);
     background-size: 357px 500px;
     background-repeat: no-repeat;
     background-position: 522px 105px;
@@ -100,4 +100,12 @@ div {
 
 }
 
+#potato5 {
+    background-image: url(potato5.png);
+    background-size: 357px 500px;
+    background-repeat: no-repeat;
+    background-position: 522px 105px;
+    background-attachment: fixed;
+
+}
 

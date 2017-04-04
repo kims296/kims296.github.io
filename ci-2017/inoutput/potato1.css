@@ -13,7 +13,7 @@ a {
     color: white;
     font-size: 20px;
     font-family: helvetica;
-    margin: 19px;
+    margin: 77px;
 
 }
 
@@ -27,8 +27,8 @@ div {
 
 #first {
     background: transparent;
-    background-image: url(chipslice.png);
-    background-size: 400px 350px;
+    background-image: url(slices.jpg);
+    background-size: 500px 355px;
     background-repeat: no-repeat;
     background-position: 522px 200px;
     background-attachment: fixed;
@@ -37,19 +37,31 @@ div {
 
 #second {
     background: transparent;
+    background-image: url(chips.png);
+    background-size: 500px 355px;
+    background-repeat: no-repeat;
+    background-position: 522px 200px;
+    background-attachment: fixed;
 }
 
 #third {
     background: transparent;
+    background-image: url(seasoning.jpg);
+    background-size: 500px 355px;
+    background-repeat: no-repeat;
+    background-position: 522px 200px;
+    background-attachment: fixed;
 }
 
 #fourth {
     background: transparent;
+    background-image: url(final.jpg);
+    background-size: 500px 355px;
+    background-repeat: no-repeat;
+    background-position: 522px 200px;
+    background-attachment: fixed;
 }
 
-#fifth {
-    background: transparent;
-}
 
 #top {
     position: fixed;
@@ -92,6 +104,15 @@ div {
 }
 
 #potato4 {
+    background-image: url(potato4.png);
+    background-size: 357px 500px;
+    background-repeat: no-repeat;
+    background-position: 522px 105px;
+    background-attachment: fixed;
+
+}
+
+#potato5 {
     background-image: url(potato5.png);
     background-size: 357px 500px;
     background-repeat: no-repeat;
