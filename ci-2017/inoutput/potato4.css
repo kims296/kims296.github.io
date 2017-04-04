@@ -1,0 +1,135 @@
+body {
+    background-size: 200px 300px;
+    background-repeat: no-repeat;
+    background-position: 200px 200px;
+    background-attachment: fixed;
+    background-color: #E7E8D1;
+    
+}
+
+
+a {
+    background: gray;
+    padding: 10px 20px;
+    color: white;
+    font-size: 20px;
+    font-family: helvetica;
+    margin: 43px;
+
+}
+
+div {
+    height: 100vh;
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: helvetica;
+
+}
+
+#first {
+    background: transparent;
+    background-image: url(slices.jpg);
+    background-size: 500px 355px;
+    background-repeat: no-repeat;
+    background-position: 522px 200px;
+    background-attachment: fixed;
+
+}
+
+#second {
+    background: transparent;
+    background-image: url(chips.png);
+    background-size: 500px 355px;
+    background-repeat: no-repeat;
+    background-position: 522px 200px;
+    background-attachment: fixed;
+}
+
+#third{
+    background: transparent;
+    background-image: url(frying.jpg);
+    background-size: 500px 355px;
+    background-repeat: no-repeat;
+    background-position: 522px 200px;
+    background-attachment: fixed;
+}
+
+
+#fourth {
+    background: transparent;
+    background-image: url(seasoning.jpg);
+    background-size: 500px 355px;
+    background-repeat: no-repeat;
+    background-position: 522px 200px;
+    background-attachment: fixed;
+}
+
+#fifth {
+    background: transparent;
+    background-image: url(final.jpg);
+    background-size: 500px 355px;
+    background-repeat: no-repeat;
+    background-position: 522px 200px;
+    background-attachment: fixed;
+}
+
+
+#top {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+#potato {
+    background-image: url(pot1.png);
+    background-size: 200px 300px;
+    background-repeat: no-repeat;
+    background-position: 600px 200px;
+    background-attachment: fixed;
+    
+}
+
+#potato1 {
+    background-image: url(potato.png);
+    background-size: 357px 500px;
+    background-repeat: no-repeat;
+    background-position: 522px 105px;
+    background-attachment: fixed;
+}
+
+#potato2 {
+    background-image: url(potato2.png);
+    background-size: 357px 500px;
+    background-repeat: no-repeat;
+    background-position: 522px 105px;
+    background-attachment: fixed;
+
+}
+
+#potato3 {
+    background-image: url(potato3.png);
+    background-size: 357px 500px;
+    background-repeat: no-repeat;
+    background-position: 522px 105px;
+    background-attachment: fixed;
+}
+
+#potato4 {
+    background-image: url(potato4.png);
+    background-size: 357px 500px;
+    background-repeat: no-repeat;
+    background-position: 522px 105px;
+    background-attachment: fixed;
+
+}
+
+#potato5 {
+    background-image: url(potato5.png);
+    background-size: 357px 500px;
+    background-repeat: no-repeat;
+    background-position: 522px 105px;
+    background-attachment: fixed;
+
+}
+
+
