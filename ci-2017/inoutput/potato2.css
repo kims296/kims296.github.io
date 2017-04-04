@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;
     background-position: 200px 200px;
     background-attachment: fixed;
+    background-color: #E7E8D1;
     
 }
 
@@ -13,7 +14,7 @@ a {
     color: white;
     font-size: 20px;
     font-family: helvetica;
-    margin: 19px;
+    margin: 43px;
 
 }
 
@@ -27,8 +28,8 @@ div {
 
 #first {
     background: transparent;
-    background-image: url(chipslice.png);
-    background-size: 400px 350px;
+    background-image: url(soakfries.jpg);
+    background-size: 500px 355px;
     background-repeat: no-repeat;
     background-position: 522px 200px;
     background-attachment: fixed;
@@ -37,18 +38,38 @@ div {
 
 #second {
     background: transparent;
+    background-image: url(pan.jpg);
+    background-size: 500px 355px;
+    background-repeat: no-repeat;
+    background-position: 522px 200px;
+    background-attachment: fixed;
 }
 
 #third {
     background: transparent;
+    background-image: url(fryfries.jpg);
+    background-size: 500px 355px;
+    background-repeat: no-repeat;
+    background-position: 522px 200px;
+    background-attachment: fixed;
 }
 
 #fourth {
     background: transparent;
+    background-image: url(sprinkle.jpg);
+    background-size: 500px 355px;
+    background-repeat: no-repeat;
+    background-position: 522px 200px;
+    background-attachment: fixed;
 }
 
 #fifth {
     background: transparent;
+    background-image: url(finalfries.jpg);
+    background-size: 500px 355px;
+    background-repeat: no-repeat;
+    background-position: 522px 200px;
+    background-attachment: fixed;
 }
 
 #top {
