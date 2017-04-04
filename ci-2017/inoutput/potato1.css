@@ -13,7 +13,7 @@ a {
     color: white;
     font-size: 20px;
     font-family: helvetica;
-    margin: 77px;
+    margin: 43px;
 
 }
 
@@ -44,7 +44,17 @@ div {
     background-attachment: fixed;
 }
 
-#third {
+#third{
+    background: transparent;
+    background-image: url(frying.jpg);
+    background-size: 500px 355px;
+    background-repeat: no-repeat;
+    background-position: 522px 200px;
+    background-attachment: fixed;
+}
+
+
+#fourth {
     background: transparent;
     background-image: url(seasoning.jpg);
     background-size: 500px 355px;
@@ -53,7 +63,7 @@ div {
     background-attachment: fixed;
 }
 
-#fourth {
+#fifth {
     background: transparent;
     background-image: url(final.jpg);
     background-size: 500px 355px;
