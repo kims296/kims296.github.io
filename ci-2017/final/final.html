@@ -2,13 +2,37 @@
     <head> 
         <title>Vlog</title>
         <link href="final.css" rel="stylesheet" type="text/css">
-        <script type="text/javascript" src="collection.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+        
+        <script src="underscore-min.js"></script>
+
+      
     </head>
     <body>
-        <a href="final2/final2.html">
- 
+     
+
+
+        <h1>Taylor Hanna Kim</h1>
+
+        <a href="../theme/american.html">
+        <div class="column1">Feels</div>
+        </a>
+        <a href="../theme/korean.html">
+        <div class="column2">Time</div>
+        </a>
+        <a href="../theme/chinese.html">
+        <div class="column3">Days</div>
+        </a>  
+      
+
         
     </body>
+    <script type="text/javascript" src="collection.js"></script>
+    <script type="text/javascript">
+
+       var item = _.findWhere(days, {daynumber: 1});
+       console.log (item)
+    </script>
 
 
 </html>
