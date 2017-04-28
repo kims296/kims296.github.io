@@ -109,7 +109,7 @@ h1 {
     background-image: url(pugs.png);
     background-size: 100px 100px;
     background-repeat: no-repeat;
-    /* background-position: 600px 200px; */
+    background-position: 40px 5px;
     /* background-attachment: fixed; */
     height: 700px;
 }
