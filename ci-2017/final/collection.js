@@ -54,7 +54,7 @@ var days = [
 		{
 		"time" : "afternoon",
 		"source": "Day4.m4v",
-		"feels": ["happy", "frustrated"]
+		"feels": ["happy", "weird"]
 	    },
 		{
 		"time" : "afternoon",
