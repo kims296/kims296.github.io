@@ -6,13 +6,9 @@ var days = [
 		{
 		"time" : "night",
 		"source": "Day1.m4v",
-		"feels": ["happy", "sad"]
-		},
-		{
-		"time" : "afternoon",
-		"source": "filename2.mp4",
-		"feels": ["sad", "frustrated"]
+		"feels": ["tired", "eating"]
 		}
+		
 	]
 },
 {
@@ -21,12 +17,12 @@ var days = [
 		{
 		"time" : "morning",
 		"source": "Day2.m4v",
-		"feels": ["happy", "frustrated"]
-		}
+		"feels": ["tired", "normal"]
+		},
 		{
-		"time" : "afternoon",
-		"source": "filename2.mp4",
-		"feels": ["sad", "frustrated"]
+		"time" : "morning",
+		"source": "Day2.2.m4v",
+		"feels": ["tired", "happy"]
 		}
 	
 	]
@@ -35,21 +31,39 @@ var days = [
 	"daynumber" : 3,
 		"videos" : [
 		{
+		"time" : "night",
+		"source": "Day3.m4v",
+		"feels": ["happy", "weird"]
+		},
+		{
 		"time" : "morning",
-		"source": "filename.mp4",
-		"feels": ["happy", "frustrated"]
+		"source": "Day3.2.m4v",
+		"feels": ["happy", "weird"]
+		},
+		{
+		"time" : "morning",
+		"source": "Day3.3.m4v",
+		"feels": ["happy", "weird"]
 		}
+	
 	]
 },
 {
 	"daynumber" : 4,
 		"videos" : [
 		{
-		"time" : "morning",
-		"source": "filename.mp4",
+		"time" : "afternoon",
+		"source": "Day4.m4v",
 		"feels": ["happy", "frustrated"]
+	    },
+		{
+		"time" : "afternoon",
+		"source": "Day4.2.m4v",
+		"feels": ["happy", "weird"]
 		}
+	
 	]
+
 },
 {
 	"daynumber" : 5,

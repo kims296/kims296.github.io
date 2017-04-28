@@ -38,7 +38,7 @@ h1 {
     top: 80px;
     z-index: 6000;
     border: solid white;
-    background-image: url(pizza1.png);
+    background-color: gray;
 
 }
 
@@ -47,6 +47,7 @@ h1 {
     height: 250px;
     line-height: 250px;
     color: white;
+    background-image: url(pizza1.png);
 }
 
 
@@ -65,7 +66,7 @@ h1 {
     top: 80px;
     z-index: 5000;
     border: solid white;
-    background-image: url(pizza2.jpg);
+    background-color: gray;
 }
 
 .column2:hover {
@@ -73,6 +74,7 @@ h1 {
     height: 250px;
     line-height: 250px;
     color: white;
+    background-image: url(pizza2.jpg);
 }
 
 .column3 {
@@ -105,8 +107,9 @@ h1 {
 }
 #pug {
     background-image: url(pugs.png);
-    background-size: 200px 300px;
+    background-size: 100px 100px;
     background-repeat: no-repeat;
-    background-position: 600px 200px;
-    background-attachment: fixed;
+    /* background-position: 600px 200px; */
+    /* background-attachment: fixed; */
+    height: 700px;
 }
