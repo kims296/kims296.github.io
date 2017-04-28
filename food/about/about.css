@@ -1,5 +1,5 @@
 body {
-    background-image: url(food.jpg);
+    background-color: #CB2E2E;
     background-size: cover;
     position: absolute;
     background-position: center center;
@@ -7,10 +7,16 @@ body {
     margin: 0px;
 }
 
+a {
+    color: black;
+    text-decoration: none;
+    cursor: auto;
+}
+
 h1 {
     font-size: 50px;
-    width: 100%;
-    height: 480px;
+    width: 175%;
+    height: 670px;
     text-align: center;
     -webkit-margin-before: 0px;
     -webkit-margin-after: 0px;
@@ -18,7 +24,7 @@ h1 {
     -webkit-margin-end: 0px;
     font-weight: bold;
     margin-bottom: -90px;
-    margin-top: 250px;
+    margin-top: 50px;
     color: black;
     
 
@@ -26,16 +32,7 @@ h1 {
 
 #english {
 	font-family: 'Dosis', sans-serif;
-    font-size: 120px;
+    font-size: 50px;
     font-weight: bolder;
  
 }
-
-
-
-a {
-	color: black;
-    text-decoration: none;
-    cursor: auto;
-}
-
