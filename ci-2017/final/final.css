@@ -27,9 +27,8 @@ h1 {
     height: 350px;
     width: 350px;
     transition: all 1s;
-    font-family: zapfino;
-    font-weight: bold;
-    font-size: 45px;
+    font-family: 'Dosis', sans-serif;
+    font-size: 55px;
     line-height: 350px;
     color: white;
     text-align: center;
@@ -39,7 +38,7 @@ h1 {
     top: 80px;
     z-index: 6000;
     border: solid white;
-  background-image: url(pizza.jpg);
+    background-image: url(pizza1.png);
 
 }
 
@@ -55,9 +54,8 @@ h1 {
     height: 350px;
     width: 350px;
     transition: all 1s;
-    font-family: zapfino;
-    font-weight: bold;
-    font-size: 45px;
+    font-family: 'Dosis', sans-serif;
+    font-size: 55px;
     line-height: 350px;
     color: white;
     text-align: center;
@@ -67,7 +65,7 @@ h1 {
     top: 80px;
     z-index: 5000;
     border: solid white;
-    background-color: black;
+    background-image: url(pizza2.jpg);
 }
 
 .column2:hover {
@@ -81,9 +79,8 @@ h1 {
     height: 350px;
     width: 350px;
     transition: all 1s;
-    font-family: zapfino;
-    font-weight: bold;
-    font-size: 45px;
+    font-family: 'Dosis', sans-serif;
+    font-size: 55px;
     line-height: 350px;
     color: white;
     text-align: center;
@@ -93,7 +90,7 @@ h1 {
     top: 80px;
     z-index: 4000;
     border: solid white;
-    background-color: black;
+    background-color: gray;
 
    
 }
@@ -103,7 +100,13 @@ h1 {
     height: 250px;
     line-height: 250px;
     color: white;
+    background-image: url(pizza3.jpg);
   
 }
-
-
+#pug {
+    background-image: url(pugs.png);
+    background-size: 200px 300px;
+    background-repeat: no-repeat;
+    background-position: 600px 200px;
+    background-attachment: fixed;
+}
