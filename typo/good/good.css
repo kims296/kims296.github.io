@@ -1,0 +1,90 @@
+body {
+    background-image: url(white.jpg);
+    background-size: cover;
+    position: absolute;
+    background-position: center center;
+    width: 100%;
+    margin: 0px;
+}
+
+div {
+    height: 100vh;
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: helvetica;
+
+}
+
+#first {
+    background-color: black;
+    background-size: 1500px 1000px;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    background-attachment: fixed;
+
+}
+
+
+#good {
+    background-size: 200px 300px;
+    background-repeat: no-repeat;
+    background-position: 600px 200px;
+    background-attachment: fixed;
+    
+
+}
+.column1 {
+    height: 350px;
+    width: 350px;
+    transition: all 1s;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 75px;
+    line-height: 350px;
+    color: black;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 5px;
+    top: 800px;
+    z-index: 6000;
+    border-radius: 100%;
+    background: radial-gradient(circle, white, #00ba35, #00d621);
+    border: solid gray;
+
+}
+
+.column1:hover {
+    width: 450px;
+    height: 450px;
+    line-height: 350px;
+    color: white;
+    border-radius: 100%;
+}
+.column2 {
+    height: 250px;
+    width: 250px;
+    transition: all 1s;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 75px;
+    line-height: 250px;
+    color: black;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 500px;
+    top: 700px;
+    z-index: 6000;
+    border-radius: 100%;
+    background: radial-gradient(circle, white, #fc50ff, pink);
+    border: solid gray;
+
+
+}
+
+.column2:hover {
+    width: 350px;
+    height: 350px;
+    line-height: 350px;
+    color: white;
+    border-radius: 100%;
+}
