@@ -168,7 +168,7 @@ div {
 #div28 {
     animation-timing-function: ease-in;
     background-color: #00c620;
-    animation: two 7s infinite;
+    animation: two 5s infinite;
 }
 #div29 {
     animation-timing-function: ease-out;
