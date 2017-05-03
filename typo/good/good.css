@@ -21,6 +21,7 @@ div {
     background-repeat: no-repeat;
     background-position: 0px 0px;
     background-attachment: fixed;
+    background-image: url(whitelight.jpg);
 
 }
 
@@ -30,6 +31,7 @@ div {
     background-repeat: no-repeat;
     background-position: 600px 200px;
     background-attachment: fixed;
+
     
 
 }
@@ -56,15 +58,16 @@ div {
 .column1:hover {
     width: 450px;
     height: 450px;
-    line-height: 350px;
+    line-height: 600px;
     color: white;
     border-radius: 100%;
     background-color: white;
+    background-image: url(dot1.jpg);
+
     
   
-  
-
 }
+
 .column2 {
     height: 250px;
     width: 250px;
@@ -94,18 +97,18 @@ div {
     border-radius: 100%;
 }
 .column3 {
-    height: 250px;
-    width: 250px;
+    height: 150px;
+    width: 150px;
     transition: all 1s;
     font-family: 'Orbitron', sans-serif;
-    font-size: 75px;
-    line-height: 250px;
+    font-size: 45px;
+    line-height: 150px;
     color: black;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 500px;
-    top: 700px;
+    left: 1000px;
+    top: 1000px;
     z-index: 6000;
     border-radius: 100%;
     background: radial-gradient(circle, white, #cf0d00, red);
@@ -115,9 +118,9 @@ div {
 }
 
 .column3:hover {
-    width: 350px;
-    height: 350px;
-    line-height: 350px;
+    width: 250px;
+    height: 250px;
+    line-height: 250px;
     color: white;
     border-radius: 100%;
 }
