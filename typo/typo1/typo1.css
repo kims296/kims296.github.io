@@ -88,7 +88,7 @@ div {
 #div12 {
     animation-timing-function: ease;
     background-color: #00c620;
-    animation: one 9s infinite;
+    animation: one 4s infinite;
 }
 #div13 {
     animation-timing-function: ease-in;
@@ -118,7 +118,7 @@ div {
 #div18 {
     animation-timing-function: ease-in;
     background-color: #00c620;
-    animation: two 8s infinite;
+    animation: two 4s infinite;
 }
 #div19 {
     animation-timing-function: ease-out;
@@ -128,7 +128,7 @@ div {
 #div20 {
     animation-timing-function: ease-in-out;
     background-color: #00c620;
-    animation: four 9s infinite;
+    animation: four 2s infinite;
 }
 #div21 {
     animation-timing-function: linear;
@@ -148,7 +148,7 @@ div {
 #div24 {
     animation-timing-function: ease-out;
     background-color: #00c620;
-    animation: three 7s infinite;
+    animation: three 4s infinite;
 }
 #div25 {
     animation-timing-function: ease-in-out;
@@ -158,7 +158,7 @@ div {
 #div26 {
     animation-timing-function: linear;
     background-color: #00c620;
-    animation: mymove 8s infinite;
+    animation: mymove 1s infinite;
 }
 #div27 {
     animation-timing-function: ease;
@@ -173,7 +173,7 @@ div {
 #div29 {
     animation-timing-function: ease-out;
     background-color: #00c620;
-    animation: three 10s infinite;
+    animation: three 2s infinite;
 }
 #div30 {
     animation-timing-function: ease-in-out;
@@ -194,7 +194,7 @@ div {
 #div33 {
     animation-timing-function: ease-in;
     background-color: #00c620;
-    animation: two 9s infinite;
+    animation: two 1s infinite;
 }
 #div34 {
     animation-timing-function: ease-out;
@@ -224,7 +224,7 @@ div {
 #div39 {
     animation-timing-function: ease-out;
     background-color: #00c620;
-    animation: three 8s infinite;
+    animation: three 2s infinite;
 }
 #div40 {
     animation-timing-function: ease-in-out;
@@ -239,12 +239,12 @@ div {
 #div42 {
     animation-timing-function: ease;
     background-color: #00c620;
-    animation: one 9s infinite;
+    animation: one 4s infinite;
 }
 #div43 {
     animation-timing-function: ease-in;
     background-color: #00c620;
-    animation: two 10s infinite;
+    animation: two 1s infinite;
 }
 #div44 {
     animation-timing-function: ease-out;
@@ -275,7 +275,7 @@ div {
 #div49 {
     animation-timing-function: ease-out;
     background-color: #00c620;
-    animation: three 9s infinite;
+    animation: three 2s infinite;
 }
 #div50 {
     animation-timing-function: ease-in-out;
@@ -291,7 +291,7 @@ div {
 #div52 {
     animation-timing-function: ease;
     background-color: #00c620;
-    animation: one 5s infinite;
+    animation: one 1s infinite;
 }
 #div53 {
     animation-timing-function: ease-in;
@@ -301,7 +301,7 @@ div {
 #div54 {
     animation-timing-function: ease-out;
     background-color: #00c620;
-    animation: three 8s infinite;
+    animation: three 2s infinite;
 }
 #div55 {
     animation-timing-function: ease-in-out;
@@ -327,7 +327,7 @@ div {
 #div59 {
     animation-timing-function: ease-out;
     background-color: #00c620;
-    animation: three 9s infinite;
+    animation: three 4s infinite;
 }
 #div60 {
     animation-timing-function: ease-in-out;
@@ -347,7 +347,7 @@ div {
 #div63 {
     animation-timing-function: ease-in;
     background-color: #00c620;
-    animation: two 9s infinite;
+    animation: two 2s infinite;
 }
 #div64 {
     animation-timing-function: ease-out;
@@ -367,7 +367,7 @@ div {
 #div67 {
     animation-timing-function: ease;
     background-color: #00c620;
-    animation: one 10s infinite;
+    animation: one 1s infinite;
 }
 #div68 {
     animation-timing-function: ease-in;
@@ -382,7 +382,7 @@ div {
 #div70 {
     animation-timing-function: ease-in-out;
     background-color: #00c620;
-    animation: four 8s infinite;
+    animation: four 4s infinite;
 }
 
 #div71 {
@@ -403,7 +403,7 @@ div {
 #div74 {
     animation-timing-function: ease-out;
     background-color: #00c620;
-    animation: three 9s infinite;
+    animation: three 2s infinite;
 }
 #div75 {
     animation-timing-function: ease-in-out;
