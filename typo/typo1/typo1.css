@@ -47,7 +47,7 @@ div {
 #div4 {
     animation-timing-function: ease-out;
     background-color: #00c620;
-    animation: three 9s infinite;
+    animation: three 1s infinite;
 }
 #div5 {
     animation-timing-function: ease-in-out;
@@ -67,7 +67,7 @@ div {
 #div8 {
     animation-timing-function: ease-in;
     background-color: #00c620;
-    animation: two 8s infinite;
+    animation: two 4s infinite;
 }
 #div9 {
     animation-timing-function: ease-out;
@@ -78,7 +78,7 @@ div {
 #div10 {
     animation-timing-function: ease-in-out;
     background-color: #00c620;
-    animation: four 7s infinite;
+    animation: four 2s infinite;
 }
 #div11 {
     animation-timing-function: linear;
@@ -98,7 +98,7 @@ div {
 #div14 {
     animation-timing-function: ease-out;
     background-color: #00c620;
-    animation: three 8s infinite;
+    animation: three 1s infinite;
 }
 #div15 {
     animation-timing-function: ease-in-out;
@@ -153,7 +153,7 @@ div {
 #div25 {
     animation-timing-function: ease-in-out;
     background-color: #00c620;
-    animation: four 9s infinite;
+    animation: four 2s infinite;
 }
 #div26 {
     animation-timing-function: linear;
@@ -184,7 +184,7 @@ div {
 #div31 {
     animation-timing-function: linear;
     background-color: #00c620;
-    animation: mymove 5s infinite;
+    animation: mymove 4s infinite;
 }
 #div32 {
     animation-timing-function: ease;
@@ -204,7 +204,7 @@ div {
 #div35 {
     animation-timing-function: ease-in-out;
     background-color: #00c620;
-    animation: four 7s infinite;
+    animation: four 2s infinite;
 }
 #div36 {
     animation-timing-function: linear;
@@ -234,7 +234,7 @@ div {
 #div41 {
     animation-timing-function: linear;
     background-color: #00c620;
-    animation: mymove 7s infinite;
+    animation: mymove 6s infinite;
 }
 #div42 {
     animation-timing-function: ease;
@@ -260,12 +260,12 @@ div {
 #div46 {
     animation-timing-function: linear;
     background-color: #00c620;
-    animation: mymove 7s infinite;
+    animation: mymove 2s infinite;
 }
 #div47 {
     animation-timing-function: ease;
     background-color: #00c620;
-    animation: one 10s infinite;
+    animation: one 4s infinite;
 }
 #div48 {
     animation-timing-function: ease-in;
@@ -280,13 +280,13 @@ div {
 #div50 {
     animation-timing-function: ease-in-out;
     background-color: #00c620;
-    animation: four 7s infinite;
+    animation: four 5s infinite;
 }
 
 #div51 {
     animation-timing-function: linear;
     background-color: #00c620;
-    animation: mymove 10s infinite;
+    animation: mymove 4s infinite;
 }
 #div52 {
     animation-timing-function: ease;
@@ -317,12 +317,12 @@ div {
 #div57 {
     animation-timing-function: ease;
     background-color: #00c620;
-    animation: one 10s infinite;
+    animation: one 1s infinite;
 }
 #div58 {
     animation-timing-function: ease-in;
     background-color: #00c620;
-    animation: two 8s infinite;
+    animation: two 2s infinite;
 }
 #div59 {
     animation-timing-function: ease-out;
@@ -337,7 +337,7 @@ div {
 #div61 {
     animation-timing-function: linear;
     background-color: #00c620;
-    animation: mymove 10s infinite;
+    animation: mymove 3s infinite;
 }
 #div62 {
     animation-timing-function: ease;
@@ -362,7 +362,7 @@ div {
 #div66 {
     animation-timing-function: linear;
     background-color: #00c620;
-    animation: mymove 9s infinite;
+    animation: mymove 2s infinite;
 }
 #div67 {
     animation-timing-function: ease;
@@ -388,7 +388,7 @@ div {
 #div71 {
     animation-timing-function: linear;
     background-color: #00c620;
-    animation: mymove 10s infinite;
+    animation: mymove 6s infinite;
 }
 #div72 {
     animation-timing-function: ease;
@@ -398,7 +398,7 @@ div {
 #div73 {
     animation-timing-function: ease-in;
     background-color: #00c620;
-    animation: two 6s infinite;
+    animation: two 1s infinite;
 }
 #div74 {
     animation-timing-function: ease-out;
@@ -408,7 +408,7 @@ div {
 #div75 {
     animation-timing-function: ease-in-out;
     background-color: #00c620;
-    animation: four 8s infinite;
+    animation: four 3s infinite;
 }
 
 
