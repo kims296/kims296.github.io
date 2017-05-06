@@ -71,7 +71,7 @@ var days = [
 		{
 		"time" : "night",
 		"source": "Day5.mp4",
-		"feels": ["party"]
+		"feels": ["partying"]
 		},
 		{
 		"time" : "night",
@@ -163,7 +163,7 @@ var days = [
 		{
 		"time" : "night",
 		"source": "Day11.3.mp4",
-		"feels": ["party"]
+		"feels": ["partying"]
 		}
 	
 	]
