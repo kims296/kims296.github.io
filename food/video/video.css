@@ -28,6 +28,15 @@ a {
     position: absolute;
    
 }
+#box {
+    background-color: transparent;
+    width: 1430px;
+    height: 730px;
+    top: -300px;
+    left: -300px;
+    position: absolute;
+   
+}
 h2 {
     font-family: 'Dosis', sans-serif;
     font-size: 20px;
