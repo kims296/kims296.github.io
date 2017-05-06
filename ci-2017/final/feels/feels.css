@@ -55,7 +55,7 @@ h1 {
 .column1:hover {
     width: 350px;
     height: 250px;
-    background-color: #0B0C36;
+    background-color: red;
     line-height: 250px;
     color: white;
 }
@@ -88,7 +88,7 @@ h1 {
 .column2:hover {
     width: 350px;
     height: 250px;
-    background-color: #C60C30; 
+    background-color: red; 
     line-height: 250px;
     color: white;
 }
@@ -118,7 +118,7 @@ h1 {
     background-color: black;
     line-height: 250px;
     color: white;
-    background-color: #FFDE00;
+    background-color: red;
   
 }
 .column4 {
@@ -144,7 +144,7 @@ h1 {
 .column4:hover {
     width: 350px;
     height: 250px;
-    background-color: #003821;
+    background-color: red;
     line-height: 250px;
     color: white;
     
@@ -172,7 +172,7 @@ h1 {
 .column5:hover {
     width: 350px;
     height: 250px;
-    background-color: #F64D1C;
+    background-color: red;
     line-height: 250px;
     color: white;
 }
@@ -200,7 +200,7 @@ h1 {
 .column6:hover {
     width: 350px;
     height: 250px;
-    background-color: #EAF3F8;
+    background-color: transparent;
     line-height: 250px;
     color: white;
 }
