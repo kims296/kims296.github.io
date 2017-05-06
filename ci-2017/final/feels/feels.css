@@ -55,7 +55,7 @@ h1 {
 .column1:hover {
     width: 350px;
     height: 250px;
-    background-color: red;
+    background-color: transparent;
     line-height: 250px;
     color: white;
 }
@@ -88,7 +88,7 @@ h1 {
 .column2:hover {
     width: 350px;
     height: 250px;
-    background-color: red; 
+    background-color: transparent; 
     line-height: 250px;
     color: white;
 }
@@ -118,7 +118,7 @@ h1 {
     background-color: black;
     line-height: 250px;
     color: white;
-    background-color: red;
+    background-color: transparent;
   
 }
 .column4 {
@@ -144,7 +144,7 @@ h1 {
 .column4:hover {
     width: 350px;
     height: 250px;
-    background-color: red;
+    background-color: transparent;
     line-height: 250px;
     color: white;
     
@@ -172,7 +172,7 @@ h1 {
 .column5:hover {
     width: 350px;
     height: 250px;
-    background-color: red;
+    background-color: transparent;
     line-height: 250px;
     color: white;
 }
