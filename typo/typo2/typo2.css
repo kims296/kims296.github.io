@@ -55,7 +55,18 @@ h1 {
     margin-bottom: 300px;
     font-size: 25px;
 }
+#box {
+    height: 820px;
+    width: 1530px;
+    margin: 0px;
+    position: absolute;
+    left: -100px;
+    top: -100px;
+    z-index: 6000;
+    background-color: transparent;
 
+}
+}
 
 
 a {
