@@ -12,53 +12,25 @@ body {
 
 .column1 {
     height: 350px;
-    width: 530px;
-    transition: all 1s;
-    font-family: 'Dosis', sans-serif;
-    font-size: 55px;
-    line-height: 350px;
-    color: white;
-    text-align: center;
+    width: 1430px;
     margin: 100px;
     position: absolute;
     left: -100px;
     top: -100px;
     z-index: 6000;
-    background-color: black;
+    background-color: transparent;
 
 }
 .column2 {
-    height: 205px;
-    width: 530px;
-    transition: all 1s;
-    font-family: 'Dosis', sans-serif;
-    font-size: 55px;
-    line-height: 350px;
-    color: white;
-    text-align: center;
-    margin: 100px;
+    height: 390px;
+    width: 1530px;
+    margin: 0px;
     position: absolute;
-    left: 450px;
-    top: -100px;
+    left: -90px;
+    top: 360px;
     z-index: 6000;
-    background-color: black;
+    background-color: transparent;
 
 }
-.column3 {
-    height: 365px;
-    width: 740px;
-    transition: all 1s;
-    font-family: 'Dosis', sans-serif;
-    font-size: 55px;
-    line-height: 350px;
-    color: white;
-    text-align: center;
-    margin: 100px;
-    position: absolute;
-    left: -95px;
-    top: 265px;
-    z-index: 6000;
-    background-color: white;
 
-}
 
