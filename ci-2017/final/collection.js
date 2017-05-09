@@ -372,20 +372,32 @@ var days = [
 	"daynumber" : 27,
 		"videos" : [
 		{
-		"time" : "night",
-		"source": "Day21.mp4",
-		"feels": ["tired"]
+		"time" : "evening",
+		"source": "Day27.mp4",
+		"feels": ["partying"]
+		},
+		{
+		"time" : "evening",
+		"source": "Day27.2.mp4",
+		"feels": ["partying", "funny"]
 		}
+	
 	]
 },
 {
 	"daynumber" : 28,
 		"videos" : [
 		{
-		"time" : "night",
-		"source": "Day21.mp4",
+		"time" : "evening",
+		"source": "Day28.mp4",
+		"feels": ["eating"]
+		},
+		{
+		"time" : "evening",
+		"source": "Day28.2.mp4",
 		"feels": ["tired"]
 		}
+	
 	]
 },
 {
