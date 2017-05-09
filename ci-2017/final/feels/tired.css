@@ -338,3 +338,30 @@ h1 {
     line-height: 250px;
     color: white;
 }
+.column12 {
+    background-color: gray;
+    height: 150px;
+    width: 200px;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 150px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 950px;
+    top: 880px;
+    z-index: 1000;
+    border: solid white;
+   
+}
+
+.column12:hover {
+    width: 350px;
+    height: 250px;
+    background-color: transparent;
+    line-height: 250px;
+    color: white;
+}
