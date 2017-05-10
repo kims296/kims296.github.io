@@ -16,7 +16,7 @@ a {
 h1 {
     font-size: 50px;
     width: 270px;
-    height: 2150px;
+    height: 0px;
     text-align: center;
     -webkit-margin-before: 0px;
     -webkit-margin-after: 0px;
@@ -52,24 +52,24 @@ h1 {
     font-family: 'Dosis', sans-serif;
     font-size: 50px;
     line-height: 350px;
-    color: white;
+    color: black;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -45px;
+    left: 150px;
     top: 50px;
-    z-index: 6000;
-    background: black;
-    border: solid white;
+    z-index: 3000;
+    background: white;
+    border: solid black;
 
 }
 
 .column1:hover {
-    width: 550px;
+    width: 450px;
     height: 400px;
-    line-height: 250px;
+    line-height: 70px;
     color: black;
-    background-color: white;
+    background-image: url(thought1.png);
 
 
     
@@ -81,25 +81,24 @@ h1 {
     font-family: 'Dosis', sans-serif;
     font-size: 50px;
     line-height: 350px;
-    color: white;
+    color: black;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 300px;
+    left: 500px;
     top: 50px;
-    z-index: 6000;
-    background: black;
-    border: solid white;
+    z-index: 2000;
+    background: white;
+    border: solid black;
 
 }
 
 .column2:hover {
-    width: 850px;
+    width: 450px;
     height: 400px;
-    line-height: 250px;
+    line-height: 70px;
     color: black;
-    background-color: white;
-    
+    background-image: url(learned1.png);
 
 }
 .column3 {
@@ -109,15 +108,15 @@ h1 {
     font-family: 'Dosis', sans-serif;
     font-size: 50px;
     line-height: 350px;
-    color: white;
+    color: black;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 650px;
+    left: 850px;
     top: 50px;
-    z-index: 6000;
-    background: black;
-    border: solid white;
+    z-index: 1000;
+    background: white;
+    border: solid black;
 
 
 }
@@ -125,103 +124,9 @@ h1 {
 .column3:hover {
     width: 450px;
     height: 400px;
-    line-height: 550px;
+    line-height: 70px;
     color: black;
-    background-color: white;
-    border-radius: 100%;
-    background-image: url(angela.png);
-
-}
-.column4 {
-    height: 350px;
-    width: 350px;
-    transition: all 1s;
-    font-family: 'Dosis', sans-serif;
-    font-size: 50px;
-    line-height: 350px;
-    color: white;
-    text-align: center;
-    margin: 100px;
-    position: absolute;
-    left: 800px;
-    top: 800px;
-    z-index: 6000;
-    border-radius: 100%;
-    background: black;
-    border: solid white;
-
-
-}
-
-.column4:hover {
-    width: 450px;
-    height: 450px;
-    line-height: 550px;
-    color: black;
-    background-color: white;
-    border-radius: 100%;
-    background-image: url(taylor.png);
-
-}
-.column5 {
-    height: 350px;
-    width: 350px;
-    transition: all 1s;
-    font-family: 'Dosis', sans-serif;
-    font-size: 50px;
-    line-height: 350px;
-    color: white;
-    text-align: center;
-    margin: 100px;
-    position: absolute;
-    left: 100px;
-    top: 1550px;
-    z-index: 6000;
-    border-radius: 100%;
-    background: black;
-    border: solid white;
-
-
-}
-
-.column5:hover {
-    width: 450px;
-    height: 450px;
-    line-height: 250px;
-    color: black;
-    background-color: white;
-    border-radius: 100%;
-    background-image: url(sarah.png);
-    
-}
-.column6 {
-    height: 350px;
-    width: 350px;
-    transition: all 1s;
-    font-family: 'Dosis', sans-serif;
-    font-size: 50px;
-    line-height: 350px;
-    color: white;
-    text-align: center;
-    margin: 100px;
-    position: absolute;
-    left: 800px;
-    top: 1550px;
-    z-index: 6000;
-    border-radius: 100%;
-    background: black;
-    border: solid white;
-
-
-}
-
-.column6:hover {
-    width: 450px;
-    height: 450px;
-    line-height: 250px;
-    color: black;
-    background-color: white;
-    border-radius: 100%;
+    background-image: url(conclusion1.png); 
 }
 
 
