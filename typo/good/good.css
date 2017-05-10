@@ -52,6 +52,7 @@ div {
     border-radius: 100%;
     background: radial-gradient(circle, white, #00ba35, #00d621);
     border: solid gray;
+    box-shadow: 10px 10px 10px #888888;
 
 }
 
@@ -85,7 +86,7 @@ div {
     border-radius: 100%;
     background: radial-gradient(circle, white, #fc50ff, pink);
     border: solid gray;
-
+    box-shadow: 10px 10px 10px #888888;
 
 }
 
@@ -113,6 +114,7 @@ div {
     border-radius: 100%;
     background: radial-gradient(circle, white, #cf0d00, red);
     border: solid gray;
+    box-shadow: 10px 10px 10px #888888;
 
 
 }
