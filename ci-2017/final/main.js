@@ -10,16 +10,20 @@ container.appendChild(videos);
 
 
 function myFunction(thisone) {
-    var x = document.createElement("videos");
 
-    for (var i = 0; i < thisone.length; i++ ) {
-         var videos = thisone[i];
-    console.log(videos);
-}
+	// var x = 4;
+	// var x = "hello";
+	// var x = [0, 3, 2];
+    var x = document.createElement("video");
 
-    x.setAttribute("width", "320");
-    x.setAttribute("height", "240");
-    x.setAttribute("controls", "controls");
+//     for (var i = 0; i < thisone.length; i++ ) {
+//          var videos = thisone[i];
+//     console.log(videos);
+// }
+
+//     x.setAttribute("width", "320");
+//     x.setAttribute("height", "240");
+//     x.setAttribute("controls", "controls");
     document.body.appendChild(x);
 }
 
