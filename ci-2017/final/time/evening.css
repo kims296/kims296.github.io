@@ -473,3 +473,111 @@ h1 {
     line-height: 250px;
     color: white;
 }
+.column17 {
+    background-color: gray;
+    height: 150px;
+    width: 200px;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 150px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 550px;
+    top: 1420px;
+    z-index: 1000;
+    border: solid white;
+   
+}
+
+.column17:hover {
+    width: 350px;
+    height: 250px;
+    background-color: transparent;
+    line-height: 250px;
+    color: white;
+
+}.column18 {
+    background-color: gray;
+    height: 150px;
+    width: 200px;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 150px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 950px;
+    top: 1420px;
+    z-index: 1000;
+    border: solid white;
+   
+}
+
+.column18:hover {
+    width: 350px;
+    height: 250px;
+    background-color: transparent;
+    line-height: 250px;
+    color: white;
+
+}.column19 {
+    background-color: gray;
+    height: 150px;
+    width: 200px;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 150px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 150px;
+    top: 1690px;
+    z-index: 1000;
+    border: solid white;
+   
+}
+
+.column19:hover {
+    width: 350px;
+    height: 250px;
+    background-color: transparent;
+    line-height: 250px;
+    color: white;
+
+}.column20 {
+    background-color: gray;
+    height: 150px;
+    width: 200px;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 150px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 550px;
+    top: 1690px;
+    z-index: 1000;
+    border: solid white;
+   
+}
+
+.column20:hover {
+    width: 350px;
+    height: 250px;
+    background-color: transparent;
+    line-height: 250px;
+    color: white;
+}
