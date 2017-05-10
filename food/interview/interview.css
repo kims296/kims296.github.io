@@ -58,7 +58,6 @@ h1 {
     position: absolute;
     left: 100px;
     top: 100px;
-    z-index: 6000;
     background: black;
     border: solid white;
 
@@ -90,7 +89,6 @@ h1 {
     position: absolute;
     left: 800px;
     top: 100px;
-    z-index: 6000;
     background: black;
     border: solid white;
 
@@ -120,8 +118,6 @@ h1 {
     position: absolute;
     left: 100px;
     top: 800px;
-    z-index: 6000;
-    border-radius: 100%;
     background: black;
     border: solid white;
 
@@ -151,8 +147,6 @@ h1 {
     position: absolute;
     left: 800px;
     top: 800px;
-    z-index: 6000;
-    border-radius: 100%;
     background: black;
     border: solid white;
 
@@ -182,8 +176,6 @@ h1 {
     position: absolute;
     left: 100px;
     top: 1550px;
-    z-index: 6000;
-    border-radius: 100%;
     background: black;
     border: solid white;
 
@@ -213,8 +205,6 @@ h1 {
     position: absolute;
     left: 800px;
     top: 1550px;
-    z-index: 6000;
-    border-radius: 100%;
     background: black;
     border: solid white;
 
