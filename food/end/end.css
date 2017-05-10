@@ -45,6 +45,17 @@ h1 {
     left: 50px;
     position: absolute;
 }
+
+#end {
+    font-family: 'Dosis', sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: underline;
+    top: 65px;
+    left: 1250px;
+    position: absolute;
+}
+
 .column1 {
     height: 400px;
     width: 250px;
