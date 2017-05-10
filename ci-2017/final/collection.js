@@ -5,7 +5,7 @@ var days = [
 	    "videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day1.mp4",
+		"videoSrc": "Day1.0.mp4",
 		"feels": ["tired", "eating"]
 		}
 		
@@ -16,12 +16,12 @@ var days = [
 		"videos" : [
 		{
 		"time" : "morning",
-		"videoSrc": "Day2.mp4",
+		"videoSrc": "Day2.0.mp4",
 		"feels": ["tired", "normal"]
 		},
 		{
 		"time" : "morning",
-		"videoSrc": "Day2.2.mp4",
+		"videoSrc": "Day2.1.mp4",
 		"feels": ["tired", "happy"]
 		}
 	
@@ -32,17 +32,17 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day3.mp4",
+		"videoSrc": "Day3.0.mp4",
+		"feels": ["happy", "weird"]
+		},
+		{
+		"time" : "evening",
+		"videoSrc": "Day3.1.mp4",
 		"feels": ["happy", "weird"]
 		},
 		{
 		"time" : "evening",
 		"videoSrc": "Day3.2.mp4",
-		"feels": ["happy", "weird"]
-		},
-		{
-		"time" : "evening",
-		"videoSrc": "Day3.3.mp4",
 		"feels": ["happy", "weird"]
 		}
 	
@@ -53,12 +53,12 @@ var days = [
 		"videos" : [
 		{
 		"time" : "afternoon",
-		"videoSrc": "Day4.mp4",
+		"videoSrc": "Day4.0.mp4",
 		"feels": ["happy", "weird"]
 	    },
 		{
 		"time" : "afternoon",
-		"videoSrc": "Day4.2.mp4",
+		"videoSrc": "Day4.1.mp4",
 		"feels": ["happy", "weird"]
 		}
 	
@@ -70,17 +70,17 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day5.mp4",
+		"videoSrc": "Day5.0.mp4",
 		"feels": ["partying"]
 		},
 		{
 		"time" : "evening",
-		"videoSrc": "Day5.2.mp4",
+		"videoSrc": "Day5.1.mp4",
 		"feels": ["happy"]
 		},
 		{
 		"time" : "evening",
-		"videoSrc": "Day5.3.mp4",
+		"videoSrc": "Day5.2.mp4",
 		"feels": ["happy", "eating"]
 		}
 	
@@ -91,7 +91,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day6.mp4",
+		"videoSrc": "Day6.0.mp4",
 		"feels": ["normal"]
 		}
 	]
@@ -101,7 +101,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day7.mp4",
+		"videoSrc": "Day7.0.mp4",
 		"feels": ["tired"]
 		}
 	]
@@ -111,7 +111,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "morning",
-		"videoSrc": "Day8.mp4",
+		"videoSrc": "Day8.0.mp4",
 		"feels": ["eating"]
 		}
 	]
@@ -121,17 +121,17 @@ var days = [
 		"videos" : [
 		{
 		"time" : "morning",
-		"videoSrc": "Day9.mp4",
+		"videoSrc": "Day9.0.mp4",
 		"feels": ["tired", "weird"]
 		},
 		{
 		"time" : "afternoon",
-		"videoSrc": "Day9.2.mp4",
+		"videoSrc": "Day9.1.mp4",
 		"feels": ["happy", "eating"]
 		},
 		{
 		"time" : "evening",
-		"videoSrc": "Day9.3.mp4",
+		"videoSrc": "Day9.2.mp4",
 		"feels": ["happy", "weird"]
 		}
 	
@@ -142,7 +142,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day10.mp4",
+		"videoSrc": "Day10.0.mp4",
 		"feels": ["normal"]
 		}
 	]
@@ -152,17 +152,17 @@ var days = [
 		"videos" : [
 		{
 		"time" : "afternoon",
-		"videoSrc": "Day11.mp4",
+		"videoSrc": "Day11.0.mp4",
 		"feels": ["happy"]
 		},
 		{
 		"time" : "evening",
-		"videoSrc": "Day11.2.mp4",
+		"videoSrc": "Day11.1.mp4",
 		"feels": ["normal"]
 		},
 		{
 		"time" : "evening",
-		"videoSrc": "Day11.3.mp4",
+		"videoSrc": "Day11.2.mp4",
 		"feels": ["partying"]
 		}
 	
@@ -173,7 +173,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "morning",
-		"videoSrc": "Day12.mp4",
+		"videoSrc": "Day12.0.mp4",
 		"feels": ["tired"]
 		}
 	]
@@ -183,22 +183,22 @@ var days = [
 		"videos" : [
 		{
 		"time" : "afternoon",
-		"videoSrc": "Day13.mp4",
+		"videoSrc": "Day13.0.mp4",
 		"feels": ["normal"]
 		},
 		{
 		"time" : "afternoon",
-		"videoSrc": "Day13.2.mp4",
+		"videoSrc": "Day13.1.mp4",
 		"feels": ["happy"]
 		},
 		{
 		"time" : "afternoon",
-		"videoSrc": "Day13.3.mp4",
+		"videoSrc": "Day13.2.mp4",
 		"feels": ["eating"]
 		},
 		{
 		"time" : "afternoon",
-		"videoSrc": "Day13.4.mp4",
+		"videoSrc": "Day13.3.mp4",
 		"feels": ["weird"]
 		}
 	
@@ -209,7 +209,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day14.mp4",
+		"videoSrc": "Day14.0.mp4",
 		"feels": ["normal"]
 		}
 	]
@@ -219,7 +219,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day15.mp4",
+		"videoSrc": "Day15.0.mp4",
 		"feels": ["normal"]
 		}
 	]
@@ -229,7 +229,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "morning",
-		"videoSrc": "Day16.mp4",
+		"videoSrc": "Day16.0.mp4",
 		"feels": ["tired"]
 		}
 	]
@@ -239,7 +239,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day17.mp4",
+		"videoSrc": "Day17.0.mp4",
 		"feels": ["eating", "happy"]
 		}
 	]
@@ -249,7 +249,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day19.mp4",
+		"videoSrc": "Day18.0.mp4",
 		"feels": ["partying"]
 		}
 	]
@@ -259,17 +259,17 @@ var days = [
 		"videos" : [
 		{
 		"time" : "morning",
-		"videoSrc": "Day19.mp4",
+		"videoSrc": "Day19.0.mp4",
 		"feels": ["happy", "tired"]
 		},
 		{
 		"time" : "morning",
-		"videoSrc": "Day19.2.mp4",
+		"videoSrc": "Day19.1.mp4",
 		"feels": ["happy"]
 		},
 		{
 		"time" : "afternoon",
-		"videoSrc": "Day19.3.mp4",
+		"videoSrc": "Day19.2.mp4",
 		"feels": ["weird"]
 		}
 	
@@ -280,7 +280,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day20.mp4",
+		"videoSrc": "Day20.0.mp4",
 		"feels": ["tired"]
 		}
 	]
@@ -290,7 +290,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day21.mp4",
+		"videoSrc": "Day21.0.mp4",
 		"feels": ["tired"]
 		}
 	]
@@ -300,7 +300,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "afternoon",
-		"videoSrc": "Day22.mp4",
+		"videoSrc": "Day22.0.mp4",
 		"feels": ["normal"]
 		}
 	]
@@ -310,12 +310,12 @@ var days = [
 		"videos" : [
 		{
 		"time" : "morning",
-		"videoSrc": "Day23.mp4",
+		"videoSrc": "Day23.0.mp4",
 		"feels": ["tired"]
 		},
 		{
 		"time" : "morning",
-		"videoSrc": "Day23.2.mp4",
+		"videoSrc": "Day23.1.mp4",
 		"feels": ["weird"]
 		}
 	
@@ -326,17 +326,17 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day24.mp4",
+		"videoSrc": "Day24.0.mp4",
 		"feels": ["happy", "tired"]
 		},
 		{
 		"time" : "evening",
-		"videoSrc": "Day24.2.mp4",
+		"videoSrc": "Day24.1.mp4",
 		"feels": ["eating"]
 		},
 		{
 		"time" : "evening",
-		"videoSrc": "Day24.3.mp4",
+		"videoSrc": "Day24.2.mp4",
 		"feels": ["eating"]
 		}
 	
@@ -347,12 +347,12 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day25.mp4",
+		"videoSrc": "Day25.0.mp4",
 		"feels": ["happy"]
 		},
 		{
 		"time" : "evening",
-		"videoSrc": "Day25.2.mp4",
+		"videoSrc": "Day25.1.mp4",
 		"feels": ["partying"]
 		}
 	
@@ -363,7 +363,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "morning",
-		"videoSrc": "Day26.mp4",
+		"videoSrc": "Day26.0.mp4",
 		"feels": ["happy"]
 		}
 	]
@@ -373,12 +373,12 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day27.mp4",
+		"videoSrc": "Day27.0.mp4",
 		"feels": ["partying"]
 		},
 		{
 		"time" : "evening",
-		"videoSrc": "Day27.2.mp4",
+		"videoSrc": "Day27.1.mp4",
 		"feels": ["partying"]
 		}
 	
@@ -389,7 +389,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day28.mp4",
+		"videoSrc": "Day28.0.mp4",
 		"feels": ["eating", "partying"]
 		}	
 	
@@ -400,7 +400,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day29.mp4",
+		"videoSrc": "Day29.0.mp4",
 		"feels": ["tired"]
 		}
 	
@@ -412,7 +412,7 @@ var days = [
 		"videos" : [
 		{
 		"time" : "evening",
-		"videoSrc": "Day30.mp4",
+		"videoSrc": "Day30.0.mp4",
 		"feels": ["normal"]
 		}
 	]
