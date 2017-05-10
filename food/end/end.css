@@ -46,7 +46,7 @@ h1 {
     position: absolute;
 }
 .column1 {
-    height: 500px;
+    height: 400px;
     width: 250px;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
@@ -65,14 +65,163 @@ h1 {
 }
 
 .column1:hover {
-    width: 950px;
-    height: 500px;
+    width: 550px;
+    height: 400px;
     line-height: 250px;
     color: black;
     background-color: white;
-    background-image: url(tiffany.png);
+
 
     
-  
 }
+.column2 {
+    height: 400px;
+    width: 250px;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-size: 50px;
+    line-height: 350px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 300px;
+    top: 50px;
+    z-index: 6000;
+    background: black;
+    border: solid white;
+
+}
+
+.column2:hover {
+    width: 850px;
+    height: 400px;
+    line-height: 250px;
+    color: black;
+    background-color: white;
+    
+
+}
+.column3 {
+    height: 400px;
+    width: 250px;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-size: 50px;
+    line-height: 350px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 650px;
+    top: 50px;
+    z-index: 6000;
+    background: black;
+    border: solid white;
+
+
+}
+
+.column3:hover {
+    width: 450px;
+    height: 400px;
+    line-height: 550px;
+    color: black;
+    background-color: white;
+    border-radius: 100%;
+    background-image: url(angela.png);
+
+}
+.column4 {
+    height: 350px;
+    width: 350px;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-size: 50px;
+    line-height: 350px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 800px;
+    top: 800px;
+    z-index: 6000;
+    border-radius: 100%;
+    background: black;
+    border: solid white;
+
+
+}
+
+.column4:hover {
+    width: 450px;
+    height: 450px;
+    line-height: 550px;
+    color: black;
+    background-color: white;
+    border-radius: 100%;
+    background-image: url(taylor.png);
+
+}
+.column5 {
+    height: 350px;
+    width: 350px;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-size: 50px;
+    line-height: 350px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 100px;
+    top: 1550px;
+    z-index: 6000;
+    border-radius: 100%;
+    background: black;
+    border: solid white;
+
+
+}
+
+.column5:hover {
+    width: 450px;
+    height: 450px;
+    line-height: 250px;
+    color: black;
+    background-color: white;
+    border-radius: 100%;
+    background-image: url(sarah.png);
+    
+}
+.column6 {
+    height: 350px;
+    width: 350px;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-size: 50px;
+    line-height: 350px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 800px;
+    top: 1550px;
+    z-index: 6000;
+    border-radius: 100%;
+    background: black;
+    border: solid white;
+
+
+}
+
+.column6:hover {
+    width: 450px;
+    height: 450px;
+    line-height: 250px;
+    color: black;
+    background-color: white;
+    border-radius: 100%;
+}
+
 
