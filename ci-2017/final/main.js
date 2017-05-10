@@ -1,20 +1,21 @@
 
 var container = document.createElement("div");
 container.classList.add("container");
-
 var body = document.querySelector("body");
 
-var videoAddress = "videos/day"
-body.appendChild(container);
 
-function myFunction() {
-    var x = document.createElement("video");
+var videos = document.createElement("source");
+videos.classList.add("videos");
+container.appendChild(videos);
 
-    if (x.canPlayType("video/mp4")) {
-        x.setAttribute("src","movie.mp4");
-    } else {
-        x.setAttribute("src","movie.ogg");
-    }
+
+function myFunction(thisone) {
+    var x = document.createElement("videos");
+
+    for (var i = 0; i < thisone.length; i++ ) {
+         var videos = thisone[i];
+    console.log(videos);
+}
 
     x.setAttribute("width", "320");
     x.setAttribute("height", "240");
@@ -25,6 +26,7 @@ function myFunction() {
 
 
 var filtered;
+console.log(videos);
 
 if (container.id == "eating") {
 	filtered = _(days).filter( function(thisday) {
@@ -105,10 +107,9 @@ _(filtered).each(function(this_individual_day,index) {
 	// set attributes (like classlist or id)
 	// append child
 });
+   
 
-var anything = document.createElement("eating");
-anything.classList.add("anything");
 
-var videos = document.querySelector("videos");
+
 
 

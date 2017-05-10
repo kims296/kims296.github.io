@@ -13,6 +13,7 @@ body {
     background-repeat: no-repeat;
     background-position: 70px 30px;
     height: 130px;
+
 }
 
 #home {
@@ -32,6 +33,7 @@ body {
     top: 55px;
     left: 170px;
     position: absolute;
+    width: 50px;
 }
 
 
