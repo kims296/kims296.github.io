@@ -7,20 +7,21 @@ body {
     margin: 0px;
 }
 
-h1 {
-    font-family: 'Lato', sans-serif;
+#pug {
+    background-image: url(pugs.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    background-position: 70px 30px;
+    height: 700px;
+}
+
+#taylor {
+    font-family: 'Dosis', sans-serif;
     font-size: 50px;
-    width: 48%;
-    text-align: center;
-    -webkit-margin-before: 0px;
-    -webkit-margin-after: 0px;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
-    font-weight: bold;
-    margin-bottom: -90px;
-    margin-top: 50px;
-    color: black;
-    font-weight: lighter;
+    font-weight: bolder;
+    top: 55px;
+    left: 170px;
+    position: absolute;
 }
 
 .column1 {
@@ -105,11 +106,4 @@ h1 {
     background-image: url(pizza3.jpg);
   
 }
-#pug {
-    background-image: url(pugs.png);
-    background-size: 100px 100px;
-    background-repeat: no-repeat;
-    background-position: 60px 5px;
-    /* background-attachment: fixed; */
-    height: 700px;
-}
+
