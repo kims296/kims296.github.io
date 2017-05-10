@@ -39,10 +39,10 @@ div {
     height: 350px;
     width: 350px;
     transition: all 1s;
-    font-family: 'Orbitron', sans-serif;
-    font-size: 75px;
+    font-family: 'Inconsolata', monospace;
+    font-size: 95px;
     line-height: 350px;
-    color: black;
+    color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
@@ -50,7 +50,7 @@ div {
     top: 800px;
     z-index: 6000;
     border-radius: 100%;
-    background: radial-gradient(circle, white, #00ba35, #00d621);
+    background: black;
     border: solid gray;
     box-shadow: 10px 10px 10px #888888;
 
@@ -59,7 +59,7 @@ div {
 .column1:hover {
     width: 450px;
     height: 450px;
-    line-height: 600px;
+    line-height: 200px;
     color: white;
     border-radius: 100%;
     background-color: white;
@@ -73,10 +73,10 @@ div {
     height: 250px;
     width: 250px;
     transition: all 1s;
-    font-family: 'Orbitron', sans-serif;
-    font-size: 75px;
+    font-family: 'Inconsolata', monospace;
+    font-size: 85px;
     line-height: 250px;
-    color: black;
+    color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
@@ -84,7 +84,7 @@ div {
     top: 700px;
     z-index: 6000;
     border-radius: 100%;
-    background: radial-gradient(circle, white, #fc50ff, pink);
+    background: black;
     border: solid gray;
     box-shadow: 10px 10px 10px #888888;
 
@@ -101,10 +101,10 @@ div {
     height: 150px;
     width: 150px;
     transition: all 1s;
-    font-family: 'Orbitron', sans-serif;
-    font-size: 45px;
+    font-family: 'Inconsolata', monospace;
+    font-size: 55px;
     line-height: 150px;
-    color: black;
+    color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
@@ -112,7 +112,7 @@ div {
     top: 1000px;
     z-index: 6000;
     border-radius: 100%;
-    background: radial-gradient(circle, white, #cf0d00, red);
+    background: black;
     border: solid gray;
     box-shadow: 10px 10px 10px #888888;
 
