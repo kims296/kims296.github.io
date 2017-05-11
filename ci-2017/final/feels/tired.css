@@ -63,7 +63,14 @@ video {
     top: 60%;
     border: solid white;
 }
-
+.column1:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 
 
 .column2 {
@@ -84,7 +91,14 @@ video {
     border: solid white;
    
 }
-
+.column2:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column3 {
     background-color: gray;
     height: 35%;
@@ -103,7 +117,14 @@ video {
     border: solid white;
    
 }
-
+.column3:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column4 {
     background-color: gray;
     height: 35%;
@@ -122,7 +143,14 @@ video {
     border: solid white;
    
 }
-
+.column4:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column5 {
     background-color: gray;
     height: 35%;
@@ -141,7 +169,14 @@ video {
     border: solid white;
    
 }
-
+.column5:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 
 .column6 {
     background-color: gray;
@@ -161,7 +196,14 @@ video {
     border: solid white;
    
 }
-
+.column6:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column7 {
     background-color: gray;
     height: 35%;
@@ -180,7 +222,14 @@ video {
     border: solid white;
    
 }
-
+.column7:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 
 .column8 {
     background-color: gray;
@@ -200,7 +249,14 @@ video {
     border: solid white;
    
 }
-
+.column8:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column9 {
     background-color: gray;
     height: 35%;
@@ -220,7 +276,14 @@ video {
     border: solid white;
    
 }
-
+.column9:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column10 {
     background-color: gray;
     height: 35%;
@@ -239,7 +302,14 @@ video {
     border: solid white;
    
 }
-
+.column10:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 
 .column11 {
     background-color: gray;
@@ -260,7 +330,14 @@ video {
     border: solid white;
    
 }
-
+.column11:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column12 {
     background-color: gray;
     height: 35%;
@@ -279,6 +356,14 @@ video {
     border: solid white;
    
 }
+.column12:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column13 {
     background-color: gray;
     height: 35%;
@@ -296,4 +381,12 @@ video {
     top: 280%;
     border: solid white;
    
+}
+.column13:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
 }

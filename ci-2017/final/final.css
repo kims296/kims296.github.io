@@ -48,6 +48,7 @@ body {
     height: 250px;
     line-height: 250px;
     color: white;
+    border: solid black;
     background-image: url(pizza1.png);
 }
 
@@ -75,6 +76,7 @@ body {
     height: 250px;
     line-height: 250px;
     color: white;
+    border: solid black;
     background-image: url(pizza2.jpg);
 }
 
@@ -103,6 +105,7 @@ body {
     height: 250px;
     line-height: 250px;
     color: white;
+    border: solid black;
     background-image: url(pizza3.jpg);
   
 }

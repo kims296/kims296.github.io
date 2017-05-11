@@ -62,12 +62,9 @@ body {
     background-color: transparent;
     line-height: 250px;
     color: white;
+    border: solid black;
 }
 
-.column1:active {
-	background-position: -500px 0;
-
-} 
 
 .column2 {
     background-color: gray;
@@ -95,6 +92,7 @@ body {
     background-color: transparent; 
     line-height: 250px;
     color: white;
+    border: solid black;
 }
 .column3 {
     background-color: gray;
@@ -123,6 +121,7 @@ body {
     line-height: 250px;
     color: white;
     background-color: transparent;
+    border: solid black;
   
 }
 .column4 {
@@ -151,6 +150,7 @@ body {
     background-color: transparent;
     line-height: 250px;
     color: white;
+    border: solid black;
     
 }
 .column5 {
@@ -179,6 +179,7 @@ body {
     background-color: transparent;
     line-height: 250px;
     color: white;
+    border: solid black;
 }
 
 .column6 {
@@ -207,5 +208,6 @@ body {
     background-color: transparent;
     line-height: 250px;
     color: white;
+    border: solid black;
 }
 

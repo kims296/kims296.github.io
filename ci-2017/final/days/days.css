@@ -63,7 +63,14 @@ video {
     top: 60%;
     border: solid white;
 }
-
+.column1:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 
 
 .column2 {
@@ -84,6 +91,14 @@ video {
     border: solid white;
    
 }
+.column2:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 
 .column3 {
     background-color: gray;
@@ -103,7 +118,14 @@ video {
     border: solid white;
    
 }
-
+.column3:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column4 {
     background-color: gray;
     height: 35%;
@@ -121,6 +143,14 @@ video {
     top: 225%;
     border: solid white;
    
+}
+.column4:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
 }
 
 .column5 {
@@ -141,7 +171,14 @@ video {
     border: solid white;
    
 }
-
+.column5:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 
 .column6 {
     background-color: gray;
@@ -161,7 +198,14 @@ video {
     border: solid white;
    
 }
-
+.column6:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column7 {
     background-color: gray;
     height: 35%;
@@ -180,7 +224,14 @@ video {
     border: solid white;
    
 }
-
+.column7:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 
 .column8 {
     background-color: gray;
@@ -200,7 +251,14 @@ video {
     border: solid white;
    
 }
-
+.column8:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column9 {
     background-color: gray;
     height: 35%;
@@ -220,7 +278,14 @@ video {
     border: solid white;
    
 }
-
+.column9:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column10 {
     background-color: gray;
     height: 35%;
@@ -239,7 +304,14 @@ video {
     border: solid white;
    
 }
-
+.column10:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 
 .column11 {
     background-color: gray;
@@ -260,7 +332,14 @@ video {
     border: solid white;
    
 }
-
+.column11:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column12 {
     background-color: gray;
     height: 35%;
@@ -278,6 +357,14 @@ video {
     top: 225%;
     border: solid white;
    
+}
+.column12:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
 }
 .column13 {
     background-color: gray;
@@ -297,6 +384,14 @@ video {
     border: solid white;
    
 }
+.column13:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column14 {
     background-color: gray;
     height: 35%;
@@ -314,6 +409,14 @@ video {
     top: 335%;
     border: solid white;
    
+}
+.column14:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
 }
 .column15 {
     background-color: gray;
@@ -333,6 +436,14 @@ video {
     border: solid white;
    
 }
+.column15:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column16 {
     background-color: gray;
     height: 35%;
@@ -350,6 +461,14 @@ video {
     top: 440%;
     border: solid white;
    
+}
+.column16:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
 }
 .column17 {
     background-color: gray;
@@ -369,6 +488,14 @@ video {
     border: solid white;
    
 }
+.column17:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column18 {
     background-color: gray;
     height: 35%;
@@ -386,6 +513,14 @@ video {
     top: 115%;
     border: solid white;
    
+}
+.column18:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
 }
 .column19 {
     background-color: gray;
@@ -405,6 +540,14 @@ video {
     border: solid white;
    
 }
+.column19:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column20 {
     background-color: gray;
     height: 35%;
@@ -422,6 +565,14 @@ video {
     top: 225%;
     border: solid white;
    
+}
+.column20:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
 }
 .column21 {
     background-color: gray;
@@ -441,7 +592,14 @@ video {
     border: solid white;
    
 }
-
+.column21:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 
 .column22 {
     background-color: gray;
@@ -462,7 +620,14 @@ video {
     border: solid white;
    
 }
-
+.column22:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column23 {
     background-color: gray;
     height: 35%;
@@ -480,6 +645,14 @@ video {
     top: 385%;
     border: solid white;
    
+}
+.column23:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
 }
 .column24 {
     background-color: gray;
@@ -499,6 +672,14 @@ video {
     border: solid white;
    
 }
+.column24:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column25 {
     background-color: gray;
     height: 35%;
@@ -516,6 +697,14 @@ video {
     top: 60%;
     border: solid white;
    
+}
+.column25:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
 }
 .column26 {
     background-color: gray;
@@ -535,6 +724,14 @@ video {
     border: solid white;
    
 }
+.column26:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column27 {
     background-color: gray;
     height: 35%;
@@ -552,6 +749,14 @@ video {
     top: 170%;
     border: solid white;
    
+}
+.column27:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
 }
 .column28 {
     background-color: gray;
@@ -571,6 +776,14 @@ video {
     border: solid white;
    
 }
+.column28:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
 .column29 {
     background-color: gray;
     height: 35%;
@@ -588,6 +801,14 @@ video {
     top: 280%;
     border: solid white;
    
+}
+.column29:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
 }
 .column30 {
     background-color: gray;
@@ -607,4 +828,11 @@ video {
     border: solid white;
    
 }
-
+.column30:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
