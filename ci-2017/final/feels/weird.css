@@ -10,10 +10,10 @@ body {
 
 video {
     position: absolute;
-    left: 400px;
-    top: 130px;
-    width: 850px;
-    height: 550px;
+    left: 30%;
+    top: 100%;
+    width: 57%;
+    height: 400%;
 }
 
 
