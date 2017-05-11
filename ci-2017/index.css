@@ -26,7 +26,7 @@ h1{
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 37%;
+    left: 28%;
     top: 10%;
     border: solid white;
 }
@@ -34,7 +34,7 @@ h1{
     width: 12%;
     height: 8%;
     background-color: transparent; 
-    line-height: 40%;
+    line-height: 100%;
     border: solid black;
     color: white;
 }
@@ -53,7 +53,7 @@ h1{
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 37%;
+    left: 28%;
     top: 20%;
     border: solid white;
    
@@ -62,165 +62,160 @@ h1{
     width: 12%;
     height: 8%;
     background-color: transparent; 
-    line-height: 40%;
+    line-height: 100%;
     border: solid black;
     color: white;
 }
 .column3 {
-    background-color: gray;
-    height: 35%;
-    width: 9%;
+    background-color: white;
+    height: 8%;
+    width: 12%;
     transition: all 1s;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Neucha', cursive;
     font-weight: bold;
     font-size: 25px;
-    line-height: 150%;
-    color: white;
+    line-height: 250%;
+    color: black;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -2%;
-    top: 170%;
+    left: 28%;
+    top: 30%;
     border: solid white;
-   
 }
 .column3:hover {
-    width: 9%;
-    height: 35%;
+    width: 12%;
+    height: 8%;
     background-color: transparent; 
-    line-height: 40%;
+    line-height: 100%;
     border: solid black;
-    color: black;
+    color: white;
 }
+
 .column4 {
-    background-color: gray;
-    height: 35%;
-    width: 9%;
+    background-color: white;
+    height: 8%;
+    width: 12%;
     transition: all 1s;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Neucha', cursive;
     font-weight: bold;
     font-size: 25px;
-    line-height: 150%;
-    color: white;
+    line-height: 250%;
+    color: black;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -2%;
-    top: 225%;
+    left: 28%;
+    top: 40%;
     border: solid white;
-   
 }
 .column4:hover {
-    width: 9%;
-    height: 35%;
+    width: 12%;
+    height: 8%;
     background-color: transparent; 
-    line-height: 40%;
+    line-height: 100%;
     border: solid black;
-    color: black;
+    color: white;
 }
 .column5 {
-    background-color: gray;
-    height: 35%;
-    width: 9%;
+    background-color: white;
+    height: 8%;
+    width: 12%;
     transition: all 1s;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Neucha', cursive;
     font-weight: bold;
     font-size: 25px;
-    line-height: 150%;
-    color: white;
+    line-height: 250%;
+    color: black;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -2%;
-    top: 280%;
+    left: 45%;
+    top: 10%;
     border: solid white;
-   
 }
 .column5:hover {
-    width: 9%;
-    height: 35%;
+    width: 12%;
+    height: 8%;
     background-color: transparent; 
-    line-height: 40%;
+    line-height: 100%;
     border: solid black;
-    color: black;
+    color: white;
 }
 
 .column6 {
-    background-color: gray;
-    height: 35%;
-    width: 9%;
+    background-color: white;
+    height: 8%;
+    width: 12%;
     transition: all 1s;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Neucha', cursive;
     font-weight: bold;
     font-size: 25px;
-    line-height: 150%;
-    color: white;
+    line-height: 250%;
+    color: black;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -2%;
-    top: 330%;
+    left: 45%;
+    top: 20%;
     border: solid white;
-   
 }
 .column6:hover {
-    width: 9%;
-    height: 35%;
+    width: 12%;
+    height: 8%;
     background-color: transparent; 
-    line-height: 40%;
+    line-height: 100%;
     border: solid black;
-    color: black;
+    color: white;
 }
 .column7 {
-    background-color: gray;
-    height: 35%;
-    width: 9%;
+    background-color: white;
+    height: 8%;
+    width: 12%;
     transition: all 1s;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Neucha', cursive;
     font-weight: bold;
     font-size: 25px;
-    line-height: 150%;
-    color: white;
+    line-height: 250%;
+    color: black;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -2%;
-    top: 385%;
+    left: 45%;
+    top: 30%;
     border: solid white;
-   
 }
 .column7:hover {
-    width: 9%;
-    height: 35%;
+    width: 12%;
+    height: 8%;
     background-color: transparent; 
-    line-height: 40%;
+    line-height: 100%;
     border: solid black;
-    color: black;
+    color: white;
 }
 
 .column8 {
-    background-color: gray;
-    height: 35%;
-    width: 9%;
+    background-color: white;
+    height: 8%;
+    width: 12%;
     transition: all 1s;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Neucha', cursive;
     font-weight: bold;
     font-size: 25px;
-    line-height: 150%;
-    color: white;
+    line-height: 250%;
+    color: black;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -2%;
-    top: 440%;
+    left: 45%;
+    top: 40%;
     border: solid white;
-   
 }
 .column8:hover {
-    width: 9%;
-    height: 35%;
+    width: 12%;
+    height: 8%;
     background-color: transparent; 
-    line-height: 40%;
+    line-height: 100%;
     border: solid black;
-    color: black;
+    color: white;
 }
