@@ -19,7 +19,7 @@ function day5() {
 	//vid.src = "";
 	//$("#myVideoTag").attr("src", "../videos/day1.mp4"​​​​)​;
 	var video = document.getElementById('myVideoTag');
-	video.src = "../videos/day5.0.mp4";
+	video.src = "../videos/day5.mp4";
 }
 
 function day8() {
@@ -28,9 +28,17 @@ function day8() {
 	//vid.src = "";
 	//$("#myVideoTag").attr("src", "../videos/day1.mp4"​​​​)​;
 	var video = document.getElementById('myVideoTag');
-	video.src = "../videos/day1.mp4";
+	video.src = "../videos/day8.mp4";
 }
 
+function day9() {
+	console.log("change");
+	//var vid = document.getElementById('video');
+	//vid.src = "";
+	//$("#myVideoTag").attr("src", "../videos/day1.mp4"​​​​)​;
+	var video = document.getElementById('myVideoTag');
+	video.src = "../videos/day9.mp4";
+}
 
 
 
@@ -49,7 +57,7 @@ function day8() {
 
 
 var filtered;
-console.log(videos);
+
 
 if (container.id == "eating") {
 	filtered = _(days).filter( function(thisday) {
@@ -59,7 +67,7 @@ if (container.id == "eating") {
 		else return false;
 	}  );
 } else if (container.id = "happy") {
-	filtered = _("days").filter( function(thisday) {
+	filtered = ("days").filter( function(thisday) {
 		if (_(thisday.feels).contains("happy"))  {
 			return true;
 		}
