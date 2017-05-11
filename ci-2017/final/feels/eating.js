@@ -68,3 +68,4 @@ function day28() {
 	var video = document.getElementById('myVideoTag');
 	video.src = "../videos/day28.mp4";
 }
+
