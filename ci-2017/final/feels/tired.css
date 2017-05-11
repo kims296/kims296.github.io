@@ -214,8 +214,8 @@ video {
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -2%;
-    top: 495%;
+    left: 9%;
+    top: 60%;
     z-index: 1000;
     border: solid white;
    
@@ -234,8 +234,8 @@ video {
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -2%;
-    top: 550%;
+    left: 9%;
+    top: 115%;
     border: solid white;
    
 }
@@ -254,8 +254,8 @@ video {
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -2%;
-    top: 600%;
+    left: 9%;
+    top: 170%;
     z-index: 1000;
     border: solid white;
    
@@ -274,8 +274,8 @@ video {
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -2%;
-    top: 655%;
+    left: 9%;
+    top: 225%;
     border: solid white;
    
 }
@@ -292,8 +292,8 @@ video {
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -2%;
-    top: 710%;
+    left: 9%;
+    top: 280%;
     border: solid white;
    
 }
