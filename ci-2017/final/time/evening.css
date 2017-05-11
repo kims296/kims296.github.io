@@ -1,11 +1,21 @@
 body {
-    background-image: url(pizza.jpg);
+   background-image: url(pizza.jpg);
     background-size: cover;
     position: absolute;
     background-position: center center;
     width: 100%;
     margin: 0px;
+   
 }
+
+video {
+    position: absolute;
+    left: 700px;
+    top: 130px;
+    width: 650px;
+    height: 550px;
+}
+
 
 #pug {
     background-image: url(pugs.png);
@@ -35,552 +45,380 @@ body {
 }
 
 
+
 .column1 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 150px;
-    top: 80px;
-    z-index: 6000;
+    left: -2%;
+    top: 60%;
     border: solid white;
 }
 
-.column1:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-}
 
-.column1:active {
-    background-position: -500px 0;
-
-} 
 
 .column2 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 550px;
-    top: 80px;
-    z-index: 5000;
+    left: -2%;
+    top: 115%;
     border: solid white;
    
 }
 
-.column2:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent; 
-    line-height: 250px;
-    color: white;
-}
 .column3 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 950px;
-    top: 80px;
-    z-index: 4000;
+    left: -2%;
+    top: 170%;
     border: solid white;
    
 }
 
-.column3:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-   
-  
-}
 .column4 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 150px;
-    top: 350px;
-    z-index: 3000;
+    left: -2%;
+    top: 225%;
     border: solid white;
    
 }
 
-.column4:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-    
-}
 .column5 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 550px;
-    top: 350px;
-    z-index: 2000;
+    left: -2%;
+    top: 280%;
     border: solid white;
    
 }
 
-.column5:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-}
 
 .column6 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 950px;
-    top: 350px;
-    z-index: 1000;
+    left: -2%;
+    top: 330%;
     border: solid white;
    
 }
 
-.column6:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-}
 .column7 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 150px;
-    top: 620px;
-    z-index: 1000;
+    left: -2%;
+    top: 385%;
     border: solid white;
    
 }
 
-.column7:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-}
+
 .column8 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 550px;
-    top: 620px;
-    z-index: 1000;
+    left: -2%;
+    top: 440%;
     border: solid white;
    
 }
 
-.column8:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-}
 .column9 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 950px;
-    top: 620px;
+    left: 9%;
+    top: 60%;
     z-index: 1000;
     border: solid white;
    
 }
 
-.column9:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-}
 .column10 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 150px;
-    top: 880px;
-    z-index: 1000;
+    left: 9%;
+    top: 115%;
     border: solid white;
    
 }
 
-.column10:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-}
+
 .column11 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 550px;
-    top: 880px;
+    left: 9%;
+    top: 170%;
     z-index: 1000;
     border: solid white;
    
 }
 
-.column11:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-}
 .column12 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 950px;
-    top: 880px;
-    z-index: 1000;
+    left: 9%;
+    top: 225%;
     border: solid white;
    
-}
-
-.column12:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
 }
 .column13 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-     left: 150px;
-    top: 1150px;
-    z-index: 1000;
+    left: 9%;
+    top: 280%;
     border: solid white;
    
-}
-
-.column13:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-}
-.column14 {
+}.column14 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 550px;
-    top: 1150px;
-    z-index: 1000;
+    left: 9%;
+    top: 335%;
     border: solid white;
    
-}
-
-.column14:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
 }
 .column15 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 950px;
-    top: 1150px;
-    z-index: 1000;
+    left: 9%;
+    top: 385%;
     border: solid white;
    
-}
-
-.column15:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
 }
 .column16 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 150px;
-    top: 1420px;
-    z-index: 1000;
+    left: 9%;
+    top: 440%;
     border: solid white;
    
-}
-
-.column16:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
 }
 .column17 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 550px;
-    top: 1420px;
-    z-index: 1000;
+    left: 20%;
+    top: 60%;
     border: solid white;
    
 }
-
-.column17:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-
-}.column18 {
+.column18 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 950px;
-    top: 1420px;
-    z-index: 1000;
+    left: 20%;
+    top: 115%;
     border: solid white;
    
 }
-
-.column18:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-
-}.column19 {
+.column19 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 150px;
-    top: 1690px;
-    z-index: 1000;
+    left: 20%;
+    top: 170%;
     border: solid white;
    
 }
-
-.column19:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-
-}.column20 {
+.column20 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 35%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 150%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 550px;
-    top: 1690px;
-    z-index: 1000;
+    left: 20%;
+    top: 225%;
     border: solid white;
    
-}
-
-.column20:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
 }
