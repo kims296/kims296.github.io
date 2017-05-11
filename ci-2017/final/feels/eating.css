@@ -10,9 +10,10 @@ body {
 
 video {
     position: absolute;
-    left: 40%;
-    top: 20px;
-    width: 400px;
+    left: 400px;
+    top: 130px;
+    width: 850px;
+    height: 550px;
 }
 
 
@@ -47,20 +48,19 @@ video {
 
 .column1 {
     background-color: gray;
-    height: 50px;
-    width: 130px;
+    height: 40%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
     font-size: 25px;
-    line-height: 50px;
+    line-height: 40%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -30px;
-    top: 80px;
-    z-index: 6000;
+    left: -2%;
+    top: 60%;
     border: solid white;
 }
 
@@ -68,78 +68,76 @@ video {
 
 .column2 {
     background-color: gray;
-    height: 50px;
-    width: 130px;
+    height: 40%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
     font-size: 25px;
-    line-height: 50px;
+    line-height: 40%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -30px;
-    top: 150px;
-    z-index: 5000;
+    left: -2%;
+    top: 115%;
     border: solid white;
    
 }
 
 .column3 {
     background-color: gray;
-    height: 50px;
-    width: 130px;
+    height: 40%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
     font-size: 25px;
-    line-height: 50px;
+    line-height: 40%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -30px;
-    top: 220px;
-    z-index: 4000;
+    left: -2%;
+    top: 170%;
     border: solid white;
    
 }
 
 .column4 {
     background-color: gray;
-    height: 50px;
-    width: 130px;
+    height: 40%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
     font-size: 25px;
-    line-height: 50px;
+    line-height: 40%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -30px;
-    top: 290px;
+    left: -2%;
+    top: 225%;
     border: solid white;
    
 }
 
 .column5 {
     background-color: gray;
-    height: 50px;
-    width: 130px;
+    height: 40%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
     font-size: 25px;
-    line-height: 50px;
+    line-height: 40%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -30px;
-    top: 360px;
+    left: -2%;
+    top: 280%;
     border: solid white;
    
 }
@@ -147,38 +145,38 @@ video {
 
 .column6 {
     background-color: gray;
-    height: 50px;
-    width: 130px;
+    height: 40%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
     font-size: 25px;
-    line-height: 50px;
+    line-height: 40%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -30px;
-    top: 430px;
+    left: -2%;
+    top: 330%;
     border: solid white;
    
 }
 
 .column7 {
     background-color: gray;
-    height: 50px;
-    width: 130px;
+    height: 40%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
     font-size: 25px;
-    line-height: 50px;
+    line-height: 40%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -30px;
-    top: 500px;
+    left: -2%;
+    top: 385%;
     border: solid white;
    
 }
@@ -186,19 +184,19 @@ video {
 
 .column8 {
     background-color: gray;
-    height: 50px;
-    width: 130px;
+    height: 40%;
+    width: 9%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
     font-size: 25px;
-    line-height: 50px;
+    line-height: 40%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: -30px;
-    top: 570px;
+    left: -2%;
+    top: 440%;
     border: solid white;
    
 }
