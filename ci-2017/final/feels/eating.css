@@ -1,11 +1,20 @@
 body {
-    background-image: url(pizza.jpg);
+   background-image: url(pizza.jpg);
     background-size: cover;
     position: absolute;
     background-position: center center;
     width: 100%;
     margin: 0px;
+   
 }
+
+video {
+    position: absolute;
+    left: 40%;
+    top: 20px;
+    width: 400px;
+}
+
 
 #pug {
     background-image: url(pugs.png);
@@ -38,226 +47,158 @@ body {
 
 .column1 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 50px;
+    width: 130px;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 50px;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 150px;
+    left: -30px;
     top: 80px;
     z-index: 6000;
     border: solid white;
 }
 
-.column1:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-}
 
-.column1:active {
-    background-position: -500px 0;
-
-} 
 
 .column2 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 50px;
+    width: 130px;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 50px;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 550px;
-    top: 80px;
+    left: -30px;
+    top: 150px;
     z-index: 5000;
     border: solid white;
    
 }
 
-.column2:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent; 
-    line-height: 250px;
-    color: white;
-}
 .column3 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 50px;
+    width: 130px;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 50px;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 950px;
-    top: 80px;
+    left: -30px;
+    top: 220px;
     z-index: 4000;
     border: solid white;
    
 }
 
-.column3:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-   
-  
-}
 .column4 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 50px;
+    width: 130px;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 50px;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 150px;
-    top: 350px;
-    z-index: 3000;
+    left: -30px;
+    top: 290px;
     border: solid white;
    
 }
 
-.column4:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-    
-}
 .column5 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 50px;
+    width: 130px;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 50px;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 550px;
-    top: 350px;
-    z-index: 2000;
+    left: -30px;
+    top: 360px;
     border: solid white;
    
 }
 
-.column5:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-}
 
 .column6 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 50px;
+    width: 130px;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 50px;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 950px;
-    top: 350px;
-    z-index: 1000;
+    left: -30px;
+    top: 430px;
     border: solid white;
    
 }
 
-.column6:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-}
 .column7 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 50px;
+    width: 130px;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 50px;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 150px;
-    top: 620px;
-    z-index: 1000;
+    left: -30px;
+    top: 500px;
     border: solid white;
    
 }
 
-.column7:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
-}
+
 .column8 {
     background-color: gray;
-    height: 150px;
-    width: 200px;
+    height: 50px;
+    width: 130px;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 25px;
+    line-height: 50px;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 550px;
-    top: 620px;
-    z-index: 1000;
+    left: -30px;
+    top: 570px;
     border: solid white;
    
-}
-
-.column8:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
-    color: white;
 }

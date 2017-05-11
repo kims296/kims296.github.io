@@ -4,28 +4,47 @@ container.classList.add("container");
 var body = document.querySelector("body");
 
 
-var videos = document.createElement("source");
-videos.classList.add("videos");
-container.appendChild(videos);
 
-
-function myFunction(thisone) {
-
-	// var x = 4;
-	// var x = "hello";
-	// var x = [0, 3, 2];
-    var x = document.createElement("video");
-
-//     for (var i = 0; i < thisone.length; i++ ) {
-//          var videos = thisone[i];
-//     console.log(videos);
-// }
-
-//     x.setAttribute("width", "320");
-//     x.setAttribute("height", "240");
-//     x.setAttribute("controls", "controls");
-    document.body.appendChild(x);
+function day1() {
+	console.log("change");
+	//var vid = document.getElementById('video');
+	//vid.src = "";
+	//$("#myVideoTag").attr("src", "../videos/day1.mp4"​​​​)​;
+	var video = document.getElementById('myVideoTag');
+video.src = "../videos/day1.mp4";
 }
+function day5() {
+	console.log("change");
+	//var vid = document.getElementById('video');
+	//vid.src = "";
+	//$("#myVideoTag").attr("src", "../videos/day1.mp4"​​​​)​;
+	var video = document.getElementById('myVideoTag');
+	video.src = "../videos/day5.0.mp4";
+}
+
+function day8() {
+	console.log("change");
+	//var vid = document.getElementById('video');
+	//vid.src = "";
+	//$("#myVideoTag").attr("src", "../videos/day1.mp4"​​​​)​;
+	var video = document.getElementById('myVideoTag');
+	video.src = "../videos/day1.mp4";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
