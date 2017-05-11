@@ -1,0 +1,226 @@
+body {
+   background-color: black;
+    width: 100%;
+    margin: 0px;
+   
+}
+
+h1{
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    font-size: 70px;
+    position: absolute;
+    left: 35%;
+}
+
+.column1 {
+    background-color: white;
+    height: 8%;
+    width: 12%;
+    transition: all 1s;
+    font-family: 'Neucha', cursive;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 250%;
+    color: black;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 37%;
+    top: 10%;
+    border: solid white;
+}
+.column1:hover {
+    width: 12%;
+    height: 8%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: white;
+}
+
+
+.column2 {
+    background-color: white;
+    height: 8%;
+    width: 12%;
+    transition: all 1s;
+    font-family: 'Neucha', cursive;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 250%;
+    color: black;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 37%;
+    top: 20%;
+    border: solid white;
+   
+}
+.column2:hover {
+    width: 12%;
+    height: 8%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: white;
+}
+.column3 {
+    background-color: gray;
+    height: 35%;
+    width: 9%;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 150%;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: -2%;
+    top: 170%;
+    border: solid white;
+   
+}
+.column3:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
+.column4 {
+    background-color: gray;
+    height: 35%;
+    width: 9%;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 150%;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: -2%;
+    top: 225%;
+    border: solid white;
+   
+}
+.column4:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
+.column5 {
+    background-color: gray;
+    height: 35%;
+    width: 9%;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 150%;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: -2%;
+    top: 280%;
+    border: solid white;
+   
+}
+.column5:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
+
+.column6 {
+    background-color: gray;
+    height: 35%;
+    width: 9%;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 150%;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: -2%;
+    top: 330%;
+    border: solid white;
+   
+}
+.column6:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
+.column7 {
+    background-color: gray;
+    height: 35%;
+    width: 9%;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 150%;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: -2%;
+    top: 385%;
+    border: solid white;
+   
+}
+.column7:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
+
+.column8 {
+    background-color: gray;
+    height: 35%;
+    width: 9%;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 150%;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: -2%;
+    top: 440%;
+    border: solid white;
+   
+}
+.column8:hover {
+    width: 9%;
+    height: 35%;
+    background-color: transparent; 
+    line-height: 40%;
+    border: solid black;
+    color: black;
+}
