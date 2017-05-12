@@ -39,7 +39,7 @@ body {
     top: 80px;
     z-index: 6000;
     border: solid white;
-    background-color: gray;
+    background-color: #DD5454;
 
 }
 
@@ -68,7 +68,7 @@ body {
     top: 80px;
     z-index: 5000;
     border: solid white;
-    background-color: gray;
+    background-color: #E6E28F;
 }
 
 .column2:hover {
@@ -95,7 +95,7 @@ body {
     top: 80px;
     z-index: 4000;
     border: solid white;
-    background-color: gray;
+    background-color: black;
 
    
 }

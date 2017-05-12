@@ -47,7 +47,7 @@ video {
 
 
 .column1 {
-    background-color: gray;
+    background-color: #DD5454;
     height: 40%;
     width: 9%;
     transition: all 1s;
@@ -76,7 +76,7 @@ video {
 
 
 .column2 {
-    background-color: gray;
+    background-color: #DD5454;
     height: 40%;
     width: 9%;
     transition: all 1s;
