@@ -1,0 +1,133 @@
+body {
+   background-color: black;
+    width: 100%;
+    margin: 0px;
+   
+}
+
+h1{
+    font-family: 'Short Stack', cursive;
+    color: white;
+    font-size: 50px;
+    font-weight: lighter;
+    position: absolute;
+    left: 35%;
+}
+
+.column1 {
+	background-image: url("page1.jpg");
+	position: absolute;
+	top: 20%;
+	left: 30%;
+    height: 74%;
+    width: 48.5%;
+
+}
+.column2 {
+	background-image: url("page2.jpg");
+	position: absolute;
+	top: 97%;
+	left: 20%;
+    height: 53%;
+    width: 69%;
+
+}
+.column3 {
+	background-image: url("page3.jpg");
+	position: absolute;
+	top: 153%;
+	left: 20%;
+    height: 53%;
+    width: 69%;
+
+}
+.column4 {
+	background-image: url("page4.jpg");
+	position: absolute;
+	top: 209%;
+	left: 20%;
+    height: 53%;
+    width: 69%;
+
+}
+.column5 {
+	background-image: url("page5.jpg");
+	position: absolute;
+	top: 265%;
+	left: 20%;
+    height: 53%;
+    width: 69%;
+
+}
+.column6 {
+	background-image: url("page6.jpg");
+	position: absolute;
+	top: 321%;
+	left: 20%;
+    height: 53%;
+    width: 69%;
+
+}
+.column7 {
+	background-image: url("page7.jpg");
+	position: absolute;
+	top: 378%;
+	left: 20%;
+    height: 53%;
+    width: 69%;
+
+}
+.column8 {
+	background-image: url("page8.jpg");
+	position: absolute;
+	top: 435%;
+	left: 30%;
+    height: 74%;
+    width: 48.5%;
+
+}
+.column9 {
+	background-image: url("page9.jpg");
+	position: absolute;
+	top: 513%;
+	left: 30%;
+    height: 74%;
+    width: 48.5%;
+
+}
+.column10 {
+	background-image: url("page10.jpg");
+	position: absolute;
+	top: 591%;
+	left: 20%;
+    height: 53%;
+    width: 69%;
+
+}
+.column11 {
+	background-image: url("page11.jpg");
+	position: absolute;
+	top: 648%;
+	left: 20%;
+    height: 53%;
+    width: 69%;
+
+}
+.column12 {
+	background-image: url("page12.jpg");
+	position: absolute;
+	top: 705%;
+	left: 20%;
+    height: 53%;
+    width: 69%;
+
+}
+.column13 {
+	background-image: url("page13.jpg");
+	position: absolute;
+	top: 763%;
+	left: 30%;
+    height: 74%;
+    width: 48.5%;
+
+}
