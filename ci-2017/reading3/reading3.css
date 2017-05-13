@@ -1,0 +1,39 @@
+body {
+   background-color: black;
+    width: 100%;
+    margin: 0px;
+   
+}
+
+h1{
+    font-family: 'Short Stack', cursive;
+    color: white;
+    font-size: 50px;
+    font-weight: lighter;
+    position: absolute;
+    left: 40%;
+    top: 10%;
+}
+
+h3 {
+	font-family: 'Short Stack', cursive;
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    position: absolute;
+    left: 20%;
+    top: 25%;
+    text-align: center;
+    width: 60%
+
+}
+
+#home {
+    font-family: 'Neucha', cursive;
+    font-size: 30px;
+    font-weight: bolder;
+    top: 8%;
+    left: 5%;
+    position: absolute;
+    color: white;
+}
