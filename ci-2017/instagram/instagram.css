@@ -1,0 +1,79 @@
+body {
+   background-color: black;
+    width: 100%;
+    margin: 0px;
+   
+}
+
+h1{
+    font-family: 'Short Stack', cursive;
+    color: white;
+    font-size: 60px;
+    font-weight: lighter;
+    position: absolute;
+    left: 35%;
+}
+
+.column1 {
+	background-image: url("page1.jpg");
+	position: absolute;
+	top: 20%;
+	left: 30%;
+    height: 40%;
+    width: 35%;
+
+}
+.column2 {
+	background-image: url("page2.jpg");
+	position: absolute;
+	top: 65%;
+	left: 23%;
+    height: 40%;
+    width: 50%;
+
+}
+.column3 {
+	background-image: url("page3.jpg");
+	position: absolute;
+	top: 110%;
+	left: 23%;
+    height: 40%;
+    width: 50%;
+
+}
+.column4 {
+	background-image: url("page4.jpg");
+	position: absolute;
+	top: 155%;
+	left: 23%;
+    height: 40%;
+    width: 50%;
+
+}
+.column5 {
+	background-image: url("page5.jpg");
+	position: absolute;
+	top: 200%;
+	left: 23%;
+    height: 73%;
+    width: 50%;
+
+}
+.column6 {
+	background-image: url("page6.jpg");
+	position: absolute;
+	top: 278%;
+	left: 23%;
+    height: 29%;
+    width: 50%;
+
+}
+.column7 {
+	background-image: url("page7.jpg");
+	position: absolute;
+	top: 313%;
+	left: 23%;
+    height: 40%;
+    width: 50%;
+
+}
