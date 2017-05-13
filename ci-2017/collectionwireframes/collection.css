@@ -1,0 +1,88 @@
+body {
+   background-color: black;
+    width: 100%;
+    margin: 0px;
+   
+}
+
+h1{
+    font-family: 'Short Stack', cursive;
+    color: white;
+    font-size: 50px;
+    font-weight: lighter;
+    position: absolute;
+    left: 33%;
+}
+
+.column1 {
+	background-image: url("page1.jpg");
+	position: absolute;
+	top: 20%;
+	left: 20%;
+    height: 85%;
+    width: 69%;
+
+}
+.column2 {
+	background-image: url("page2.jpg");
+	position: absolute;
+	top: 110%;
+	left: 20%;
+    height: 85%;
+    width: 69%;
+
+}
+.column3 {
+	background-image: url("page3.jpg");
+	position: absolute;
+	top: 200%;
+	left: 20%;
+    height: 85%;
+    width: 69%;
+
+}
+.column4 {
+	background-image: url("page4.jpg");
+	position: absolute;
+	top: 290%;
+	left: 20%;
+    height: 85%;
+    width: 69%;
+
+}
+.column5 {
+	background-image: url("page5.jpg");
+	position: absolute;
+	top: 380%;
+	left: 20%;
+    height: 85%;
+    width: 69%;
+
+}
+.column6 {
+	background-image: url("page6.jpg");
+	position: absolute;
+	top: 470%;
+	left: 20%;
+    height: 85%;
+    width: 69%;
+
+}
+.column7 {
+	background-image: url("page7.jpg");
+	position: absolute;
+	top: 560%;
+	left: 20%;
+    height: 85%;
+    width: 69%;
+
+}
+.column8 {
+	background-image: url("page8.jpg");
+	position: absolute;
+	top: 650%;
+	left: 20%;
+    height: 85%;
+    width: 69%;
+
+}
