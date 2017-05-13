@@ -14,6 +14,16 @@ h1{
     left: 35%;
 }
 
+#home {
+    font-family: 'Neucha', cursive;
+    font-size: 30px;
+    font-weight: bolder;
+    top: 8%;
+    left: 5%;
+    position: absolute;
+    color: white;
+}
+
 .column1 {
 	background-image: url("page1.jpg");
 	position: absolute;
