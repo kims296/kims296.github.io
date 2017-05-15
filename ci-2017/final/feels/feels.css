@@ -60,7 +60,7 @@ body {
     height: 130%;
     width: 20%;
     background-color: transparent;
-    line-height: 250%;
+    line-height: 350%;
     color: white;
     border: solid black;
 }
@@ -87,10 +87,10 @@ body {
 }
 
 .column2:hover {
-    width: 350px;
-    height: 250px;
+    width: 20%;
+    height: 130%;
     background-color: transparent; 
-    line-height: 250px;
+    line-height: 350%;
     color: white;
     border: solid black;
 }
@@ -115,12 +115,11 @@ body {
 }
 
 .column3:hover {
-    width: 350px;
-    height: 250px;
-    background-color: black;
-    line-height: 250px;
+    width: 20%;
+    height: 130%;
+    background-color: transparent; 
+    line-height: 350%;
     color: white;
-    background-color: transparent;
     border: solid black;
   
 }
@@ -145,10 +144,10 @@ body {
 }
 
 .column4:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
+    width: 20%;
+    height: 130%;
+    background-color: transparent; 
+    line-height: 350%;
     color: white;
     border: solid black;
     
@@ -174,10 +173,10 @@ body {
 }
 
 .column5:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
+    width: 20%;
+    height: 130%;
+    background-color: transparent; 
+    line-height: 350%;
     color: white;
     border: solid black;
 }
@@ -203,10 +202,10 @@ body {
 }
 
 .column6:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent;
-    line-height: 250px;
+    width: 20%;
+    height: 130%;
+    background-color: transparent; 
+    line-height: 350%;
     color: white;
     border: solid black;
 }

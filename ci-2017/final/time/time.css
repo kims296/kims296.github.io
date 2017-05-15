@@ -37,28 +37,28 @@ body {
 
 .column1 {
     background-color: #E6E28F;
-    height: 150px;
-    width: 200px;
+    height: 170%;
+    width: 20%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 40px;
+    line-height: 530%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 150px;
-    top: 200px;
+    left: 0%;
+    top: 130%;
     z-index: 6000;
     border: solid white;
 }
 
 .column1:hover {
-    width: 350px;
-    height: 250px;
+    height: 130%;
+    width: 20%;
     background-color: transparent;
-    line-height: 250px;
+    line-height: 350%;
     color: white;
     border: solid black;
 }
@@ -66,57 +66,56 @@ body {
 
 .column2 {
     background-color: #E6E28F;
-    height: 150px;
-    width: 200px;
+    height: 170%;
+    width: 20%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 40px;
+    line-height: 530%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 550px;
-    top: 200px;
+    left: 33%;
+    top: 130%;
     z-index: 5000;
     border: solid white;
 }
 
 .column2:hover {
-    width: 350px;
-    height: 250px;
-    background-color: transparent; 
-    line-height: 250px;
+    height: 130%;
+    width: 20%;
+    background-color: transparent;
+    line-height: 350%;
     color: white;
     border: solid black;
 }
 .column3 {
     background-color: #E6E28F;
-    height: 150px;
-    width: 200px;
+    height: 170%;
+    width: 20%;
     transition: all 1s;
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 150px;
+    font-size: 40px;
+    line-height: 530%;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 950px;
-    top: 200px;
+    left: 65%;
+    top: 130%;
     z-index: 4000;
     border: solid white;
 }
 
 .column3:hover {
-    width: 350px;
-    height: 250px;
-    background-color: black;
-    line-height: 250px;
-    color: white;
+    height: 130%;
+    width: 20%;
     background-color: transparent;
+    line-height: 350%;
+    color: white;
     border: solid black;
   
 }

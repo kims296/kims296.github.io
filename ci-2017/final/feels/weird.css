@@ -47,7 +47,7 @@ video {
 
 
 .column1 {
-    background-color: gray;
+    background-color: #DD5454;
     height: 35%;
     width: 9%;
     transition: all 1s;
@@ -74,7 +74,7 @@ video {
 
 
 .column2 {
-    background-color: gray;
+    background-color: #DD5454;
     height: 35%;
     width: 9%;
     transition: all 1s;
@@ -100,7 +100,7 @@ video {
     color: black;
 }
 .column3 {
-    background-color: gray;
+    background-color: #DD5454;
     height: 35%;
     width: 9%;
     transition: all 1s;
@@ -126,7 +126,7 @@ video {
     color: black;
 }
 .column4 {
-    background-color: gray;
+    background-color: #DD5454;
     height: 35%;
     width: 9%;
     transition: all 1s;
@@ -152,7 +152,7 @@ video {
     color: black;
 }
 .column5 {
-    background-color: gray;
+    background-color: #DD5454;
     height: 35%;
     width: 9%;
     transition: all 1s;
@@ -179,7 +179,7 @@ video {
 }
 
 .column6 {
-    background-color: gray;
+    background-color: #DD5454;
     height: 35%;
     width: 9%;
     transition: all 1s;
