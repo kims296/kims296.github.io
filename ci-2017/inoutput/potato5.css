@@ -9,12 +9,13 @@ body {
 
 
 a {
-    background: gray;
+    background: transparent;
     padding: 10px 20px;
-    color: white;
+    color: black;
     font-size: 20px;
     font-family: helvetica;
     margin: 43px;
+    font-weight: bold;
 
 }
 
@@ -24,6 +25,22 @@ div {
     font-size: 25px;
     font-family: helvetica;
 
+}
+#scroll {
+    font-size: 25px;
+    font-weight: bolder;
+    top: 13%;
+    left: 43%;
+    position: absolute;
+}
+
+#home {
+    font-size: 20px;
+    font-weight: bolder;
+    top: 15px;
+    left: 95px;
+    position: absolute;
+    text-decoration: underline;
 }
 
 #first {
