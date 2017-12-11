@@ -6,88 +6,123 @@ body {
 }
 
 .column1 {
-    height: 350px;
-    width: 350px;
+    height: 200px;
+    width: 200px;
     transition: all 1s;
-    font-family: 'Dosis', sans-serif;
-    font-size: 55px;
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 20px;
     line-height: 350px;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 5px;
-    top: 80px;
+    left: 1%;
+    top: 20%;
     z-index: 6000;
     border: solid white;
-    background-color: #DD5454;
+
 
 }
 
 .column1:hover {
-    width: 350px;
+    width: 200px;
     height: 250px;
     line-height: 250px;
+    font-size: 35px;
     color: white;
     border: solid black;
-    background-image: url(pizza1.png);
+    background-color: #b3cde0;
+    border: solid white;
 }
 
 
 .column2 {
-    height: 350px;
-    width: 350px;
+    height: 200px;
+    width: 200px;
     transition: all 1s;
-    font-family: 'Dosis', sans-serif;
-    font-size: 55px;
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 20px;
     line-height: 350px;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 450px;
-    top: 80px;
+    left: 24%;
+    top: 20%;
     z-index: 5000;
     border: solid white;
-    background-color: #E6E28F;
+    
 }
 
 .column2:hover {
-    width: 350px;
+    width: 200px;
     height: 250px;
     line-height: 250px;
+    font-size: 35px;
     color: white;
-    border: solid black;
-    background-image: url(pizza2.jpg);
+    border: solid white;
+    background-color: #6497b1;
+    
 }
 
 .column3 {
-    height: 350px;
-    width: 350px;
+    height: 200px;
+    width: 200px;
     transition: all 1s;
-    font-family: 'Dosis', sans-serif;
-    font-size: 55px;
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 20px;
     line-height: 350px;
     color: white;
     text-align: center;
     margin: 100px;
     position: absolute;
-    left: 890px;
-    top: 80px;
+    left: 47%;
+    top: 20%;
     z-index: 4000;
     border: solid white;
-    background-color: #E5934B;
+  
 
    
 }
 
 .column3:hover {
-    width: 350px;
+    width: 200px;
     height: 250px;
     line-height: 250px;
+    font-size: 35px;
     color: white;
-    border: solid black;
-    background-image: url(pizza3.jpg);
+    border: solid white;
+    background-color: #005b96;
+    
+  
+}
+.column4 {
+    height: 200px;
+    width: 200px;
+    transition: all 1s;
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 20px;
+    line-height: 350px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 70%;
+    top: 20%;
+    z-index: 4000;
+    border: solid white;
+    
+   
+}
+
+.column4:hover {
+    width: 200px;
+    height: 250px;
+    line-height: 250px;
+    font-size: 35px;
+    color: white;
+    border: solid white;
+    background-color: #011f4b;
   
 }
 
