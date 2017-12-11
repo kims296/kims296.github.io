@@ -48,22 +48,54 @@ h2{
 #third{
     font-family: 'Tenor Sans', sans-serif;
     color: white;
-    font-size: 23px;
+    font-size: 20px;
     font-weight: lighter;
     position: absolute;
-    left: 50%;
-    top: 220%;
+    left: 4%;
+    top: 175%;
 
 }
 
 #fourth{
     font-family: 'Tenor Sans', sans-serif;
     color: white;
-    font-size: 23px;
+    font-size: 20px;
     font-weight: lighter;
     position: absolute;
-    left: 47%;
-    top: 224%;
+    left: 4%;
+    top: 179%;
+
+}
+
+#fifth{
+    font-family: 'Tenor Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    position: absolute;
+    left: 4%;
+    top: 183%;
+
+}
+
+#sixth{
+    font-family: 'Tenor Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    position: absolute;
+    left: 4%;
+    top: 187%;
+
+}
+#seventh{
+    font-family: 'Tenor Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    position: absolute;
+    left: 80%;
+    top: 230%;
 
 }
 
@@ -94,12 +126,12 @@ h2{
     position: absolute;
 }
 
-#tj4 {
-    background-image: url(tj4.JPG);
-    width: 450px;
-    height: 600px;
-    top: 187%;
-    left: 11%;
+#mahek4 {
+    background-image: url(mahek4.jpg);
+    width: 500px;
+    height: 490px;
+    top: 192%;
+    left: 1%;
     position: absolute;
 }
 
