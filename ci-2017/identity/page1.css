@@ -1,0 +1,93 @@
+body {
+   background-color: black;
+    width: 100%;
+    margin: 0px;
+   
+}
+
+.column1 {
+    height: 350px;
+    width: 350px;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-size: 55px;
+    line-height: 350px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 5px;
+    top: 80px;
+    z-index: 6000;
+    border: solid white;
+    background-color: #DD5454;
+
+}
+
+.column1:hover {
+    width: 350px;
+    height: 250px;
+    line-height: 250px;
+    color: white;
+    border: solid black;
+    background-image: url(pizza1.png);
+}
+
+
+.column2 {
+    height: 350px;
+    width: 350px;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-size: 55px;
+    line-height: 350px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 450px;
+    top: 80px;
+    z-index: 5000;
+    border: solid white;
+    background-color: #E6E28F;
+}
+
+.column2:hover {
+    width: 350px;
+    height: 250px;
+    line-height: 250px;
+    color: white;
+    border: solid black;
+    background-image: url(pizza2.jpg);
+}
+
+.column3 {
+    height: 350px;
+    width: 350px;
+    transition: all 1s;
+    font-family: 'Dosis', sans-serif;
+    font-size: 55px;
+    line-height: 350px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    position: absolute;
+    left: 890px;
+    top: 80px;
+    z-index: 4000;
+    border: solid white;
+    background-color: #E5934B;
+
+   
+}
+
+.column3:hover {
+    width: 350px;
+    height: 250px;
+    line-height: 250px;
+    color: white;
+    border: solid black;
+    background-image: url(pizza3.jpg);
+  
+}
+

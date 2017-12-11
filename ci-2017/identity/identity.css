@@ -6,13 +6,13 @@ body {
 }
 
 h1{
-    font-family: 'Short Stack', cursive;
+    font-family: 'Cormorant Garamond', serif;
     color: white;
-    font-size: 50px;
+    font-size: 45px;
     font-weight: lighter;
     position: absolute;
-    left: 42%;
-    top: 35%;
+    left: 44%;
+    top: 39%;
 }
 
 .column1 {
