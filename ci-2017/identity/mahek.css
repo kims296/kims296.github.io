@@ -1,5 +1,5 @@
 body {
-    background-color: #b3cde0;
+    background-color: #005b96;
     width: 100%;
     margin: 0px;
    
@@ -14,82 +14,92 @@ h1{
     left: 47%;
     top: 3%;
 }
+h2{
+    font-family: 'Tenor Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    position: absolute;
+    left: 39%;
+    top: 42%;
+}
 
-h3{
+#first{
     font-family: 'Tenor Sans', sans-serif;
     color: white;
     font-size: 18px;
     font-weight: lighter;
     position: absolute;
-    left: 42%;
-    top: 39%;
+    left: 54%;
+    top: 110%;
 }
 
-h4{
+#second{
     font-family: 'Tenor Sans', sans-serif;
     color: white;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: lighter;
     position: absolute;
-    left: 3%;
-    top: 150%;
-
+    left: 58%;
+    top: 114%;
 }
-h5{
+
+
+#third{
     font-family: 'Tenor Sans', sans-serif;
     color: white;
-    font-size: 20px;
+    font-size: 23px;
     font-weight: lighter;
     position: absolute;
-    left: 3%;
-    top: 153%;
+    left: 50%;
+    top: 220%;
 
 }
-h6{
+
+#fourth{
     font-family: 'Tenor Sans', sans-serif;
     color: white;
-    font-size: 20px;
+    font-size: 23px;
     font-weight: lighter;
     position: absolute;
-    left: 8%;
-    top: 160%;
-
-}
-
-#h7{
-    font-family: 'Tenor Sans', sans-serif;
-    color: white;
-    font-size: 20px;
-    font-weight: lighter;
-    position: absolute;
-    left: 20%;
-    top: 170%;
-
-}
-
-#momo1 {
-    background-image: url(momo1.JPG);
-    width: 500px;
-    height: 370px;
-    top: 20%;
-    left: 5%;
-    position: absolute;
-}
-
-#momo2 {
-    background-image: url(momo2.jpg);
-    width: 500px;
-    height: 500px;
-    top: 73%;
-    left: 10%;
-    position: absolute;
-}
-
-#momo3 {
-    background-image: url(momo3.JPG);
-    width: 700px;
-    height: 1000px;
-    top: 53%;
     left: 47%;
+    top: 224%;
+
+}
+
+#mahek1 {
+    background-image: url(mahek1.jpg);
+    width: 500px;
+    height: 640px;
+    top: 20%;
+    left: 58%;
     position: absolute;
 }
+
+#mahek2 {
+    background-image: url(mahek2.jpg);
+    width: 700px;
+    height: 860px;
+    top: 50%;
+    left: 4%;
+    position: absolute;
+}
+
+#mahek3 {
+    background-image: url(mahek3.jpg);
+    width: 500px;
+    height: 600px;
+    top: 130%;
+    left: 51%;
+    position: absolute;
+}
+
+#tj4 {
+    background-image: url(tj4.JPG);
+    width: 450px;
+    height: 600px;
+    top: 187%;
+    left: 11%;
+    position: absolute;
+}
+
