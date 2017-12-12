@@ -66,6 +66,15 @@ h6{
     top: 170%;
 
 }
+#back {
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    top: 3%;
+    left: 2%;
+    position: absolute;
+    color: black;
+}
 
 #momo1 {
     background-image: url(momo1.JPG);

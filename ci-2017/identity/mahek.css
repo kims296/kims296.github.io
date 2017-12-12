@@ -99,6 +99,16 @@ h2{
 
 }
 
+#back {
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    top: 3%;
+    left: 2%;
+    position: absolute;
+    color: black;
+}
+
 #mahek1 {
     background-image: url(mahek1.jpg);
     width: 500px;
