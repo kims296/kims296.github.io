@@ -8,7 +8,7 @@ body {
 .column1 {
     height: 200px;
     width: 200px;
-    transition: all 1s;
+    transition: all .7s;
     font-family: 'Tenor Sans', sans-serif;
     font-size: 20px;
     line-height: 350px;
@@ -39,7 +39,7 @@ body {
 .column2 {
     height: 200px;
     width: 200px;
-    transition: all 1s;
+    transition: all .7s;
     font-family: 'Tenor Sans', sans-serif;
     font-size: 20px;
     line-height: 350px;
@@ -68,7 +68,7 @@ body {
 .column3 {
     height: 200px;
     width: 200px;
-    transition: all 1s;
+    transition: all .7s;
     font-family: 'Tenor Sans', sans-serif;
     font-size: 20px;
     line-height: 350px;
@@ -99,7 +99,7 @@ body {
 .column4 {
     height: 200px;
     width: 200px;
-    transition: all 1s;
+    transition: all .7s;
     font-family: 'Tenor Sans', sans-serif;
     font-size: 20px;
     line-height: 350px;
