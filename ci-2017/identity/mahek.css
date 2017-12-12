@@ -1,5 +1,5 @@
 body {
-    background-color: #005b96;
+    background-color: white;
     width: 100%;
     margin: 0px;
    
@@ -7,7 +7,7 @@ body {
 
 h1{
     font-family: 'Tenor Sans', sans-serif;
-    color: white;
+    color: black;
     font-size: 35px;
     font-weight: lighter;
     position: absolute;
@@ -16,7 +16,7 @@ h1{
 }
 h2{
     font-family: 'Tenor Sans', sans-serif;
-    color: white;
+    color: black;
     font-size: 20px;
     font-weight: lighter;
     position: absolute;
@@ -26,7 +26,7 @@ h2{
 
 #first{
     font-family: 'Tenor Sans', sans-serif;
-    color: white;
+    color: black;
     font-size: 18px;
     font-weight: lighter;
     position: absolute;
@@ -36,7 +36,7 @@ h2{
 
 #second{
     font-family: 'Tenor Sans', sans-serif;
-    color: white;
+    color: black;
     font-size: 18px;
     font-weight: lighter;
     position: absolute;
@@ -47,7 +47,7 @@ h2{
 
 #third{
     font-family: 'Tenor Sans', sans-serif;
-    color: white;
+    color: black;
     font-size: 20px;
     font-weight: lighter;
     position: absolute;
@@ -58,7 +58,7 @@ h2{
 
 #fourth{
     font-family: 'Tenor Sans', sans-serif;
-    color: white;
+    color: black;
     font-size: 20px;
     font-weight: lighter;
     position: absolute;
@@ -69,7 +69,7 @@ h2{
 
 #fifth{
     font-family: 'Tenor Sans', sans-serif;
-    color: white;
+    color: black;
     font-size: 20px;
     font-weight: lighter;
     position: absolute;
@@ -80,7 +80,7 @@ h2{
 
 #sixth{
     font-family: 'Tenor Sans', sans-serif;
-    color: white;
+    color: black;
     font-size: 20px;
     font-weight: lighter;
     position: absolute;
@@ -90,7 +90,7 @@ h2{
 }
 #seventh{
     font-family: 'Tenor Sans', sans-serif;
-    color: white;
+    color: black;
     font-size: 20px;
     font-weight: lighter;
     position: absolute;
