@@ -47,3 +47,29 @@ a {
     cursor: auto;
 }
 
+#glass1 {
+    background-image: url(glasses1.png);
+    width: 20.8%;
+    height: 17.5%;
+    top: 20%;
+    left: 5%;
+    position: absolute;
+}
+
+#glass2 {
+    background-image: url(momo2.jpg);
+    width: 500px;
+    height: 500px;
+    top: 73%;
+    left: 10%;
+    position: absolute;
+}
+
+#glass3 {
+    background-image: url(momo3.JPG);
+    width: 700px;
+    height: 1000px;
+    top: 53%;
+    left: 47%;
+    position: absolute;
+}
