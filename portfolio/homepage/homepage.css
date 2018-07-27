@@ -36,24 +36,24 @@ h1 {
 }
 
 #box1 {
-    width: 20%;
-    height: 20%;
-    background-color: black;
-    top: 30%;
-    left: 40%;
+    width: 5%;
+    height: 5%;
+    background-color: white;
+    top: 10%;
+    left: 10%;
     position: absolute;
-    font color: white;
+    font color: black;
     font-family: 'Work Sans', sans-serif;
     font-size: 12pt;
 }
 #box2 {
-    width: 20%;
-    height: 20%;
-    background-color: black;
-    top: 30%;
-    left: 70%;
+    width: 5%;
+    height: 5%;
+    background-color: white;
+    top: 10%;
+    left: 30%;
     position: absolute;
-    font color: white;
+    font color: black;
     font-family: 'Work Sans', sans-serif;
     font-size: 12pt;
 }
