@@ -23,8 +23,8 @@ h1{
  
 }
 
-#glass1 {
-    background-image: url(glasses1.png);
+#logo {
+    background-image: url(logo.jpeg);
     width: 175px;
     height: 70px;
     top: 300px;
@@ -32,21 +32,4 @@ h1{
     position: absolute;
 }
 
-#glass2 {
-    background-image: url(sun.png);
-    width: 191px;
-    height: 120px;
-    top: 250px;
-    left: 43%;
-    position: absolute;
-}
-
-#glass3 {
-    background-image: url(glasses1.png);
-    width: 175px;
-    height: 70px;
-    top: 300px;
-    left: 63%;
-    position: absolute;
-}
 
